@@ -5,7 +5,7 @@ First homework of the Natural Language Processing course, prof. Roberto Navigli.
 
 University project • 2016 - Natural Language Processing - MSc in Computer Science, I year 
 
-The source code is is accompanied by a report of the performed experiments (`report.pdf`) and by the original article (`Supervised Morphological Segmentation.pdfSupervised Morphological Segmentation`). 
+The source code is is accompanied by a report of the performed experiments (`report.pdf`) and by the original article (`Supervised Morphological Segmentation.pdf`). 
 
 ## Article abstract
 
