@@ -1,0 +1,2702 @@
+ablatives	ablative:ablative_A s:+PL
+abounded	abound:abound_V ed:+PAST
+abrogate	abrogate:abrogate_V
+abusing	ab:ab_p us:use_V ing:+PCP1
+accents'	accent:accent_N s:+PL ':+GEN
+accorded	accord:accord_V ed:+PAST
+actions	act:act_V ion:ion_s s:+PL
+actress'	act:act_V r:or_s ess:ess_s ':+GEN
+adder's	adder:adder_N 's:+GEN
+adultery	adult:adulterer_N ery:ery_s
+adversaries	advers:adverse_A ari:ary_s es:+PL
+aegis's	aegis:aegis_N 's:+GEN
+aesthete	aesthete:aesthete_N
+aggrandizement	ag:ag_p grand:grand_A ize:ize_s ment:ment_s
+agreeing	agree:agree_V ing:+PCP1
+agronomy	agronomy:agronomy_N
+ahead	a:a_p head:head_N, a:a_p head:head_N
+aides-memoire	aides-memoire:aide-memoire_N ~:+PL
+aims	aim:aim_V s:+PL, aim:aim_V s:+3SG
+airline	air:air_N line:line_N
+alarm's	alarm:alarm_N 's:+GEN
+alchemists	alchem:alchemy_N ist:ist_s s:+PL
+alongside	a:a_p long:long_A side:side_N, a:a_p long:long_A side:side_N
+amalgams	amalgam:amalgam_N s:+PL
+ame	ame:AmE
+ameliorate	ameliorate:ameliorate_V
+amhara	amhara:Amhara_N
+amnesia's	amnesia:amnesia_N 's:+GEN
+ampere	ampere:ampere_N
+analyst	anal:analysis_N ~:yse_s yst:yst_s
+anarchists	anarch:anarchy_N ~:ism_s ist:ist_s s:+PL
+anatomy	anatomy:anatomy_N
+andante's	andante:andante_A 's:+GEN
+angelica's	angelica:angelica_N 's:+GEN
+animation's	animat:animate_A ion:ion_s 's:+GEN
+annotations	an:an_p not:note_N at:ate_s ion:ion_s s:+PL
+anorexia	anorexia:anorexia_N
+antenna	antenna:antenna_N
+anthropological	anthrop:anthropo_p olog:ology_s ical:ical_s
+apart	a:a_p part:part_N, a:a_p part:part_N
+appending	append:append_V ing:+PCP1
+arbitrariness'	arbitr:arbiter_N ari:ary_s ness:ness_s ':+GEN
+arbitration's	arbitrat:arbitrate_V ion:ion_s 's:+GEN
+archways	arch:arch_N way:way_N s:+PL
+armour-clad	arm:arm_V our:our_s -:~ clad:clad_A
+asses'	ass:ass_N es:+PL ':+GEN
+assets	asset:asset_N s:+PL
+atomize	atom:atom_N ize:ize_s
+attendants	attend:attend_V ant:ant_s s:+PL
+attenuating	attenuat:attenuate_V ing:+PCP1
+attitude's	attitude:attitude_N 's:+GEN
+attorney	attorn:attorn_V ey:ey_s
+augmented	augment:augment_V ed:+PAST
+authors	author:author_N s:+PL
+babel's	babel:babel_N 's:+GEN
+babus	babu:babu_N s:+PL
+baccalaureate	baccalaureate:baccalaureate_N
+backbencher	back:back_A bench:bench_N er:er_s
+bagpipes	bag:bag_N pipe:pipe_N s:+PL, bag:bag_N pipes:pipes_N
+bailed	bail:bail_N ed:+PAST
+bandage	band:band_N age:age_s, band:band_N age:age_s
+banquets	banquet:banquet_N s:+PL, banquet:banquet_N s:+3SG
+banshees	banshee:banshee_N s:+PL
+bashfully	bashful:bashful_A ly:ly_s
+batsman's	bat:bat_N s:s_s man:man_N 's:+GEN
+batsmen	bat:bat_N s:s_s men:man_N ~:+PL
+battery	battery:battery_N
+bays	bay:bay_V s:+PL, bay:bay_V s:+3SG
+bearer	bear:bear_V er:er_s
+bearings'	bearing:bearing_V s:+PL ':+GEN, bearings:bearings_N ':+GEN
+bearskins	bear:bear_N skin:skin_N s:+PL
+beating's	beating:beating_V 's:+GEN
+beauticians'	beaut:beauty_N ician:ician_s s:+PL ':+GEN
+begets	be:be_p get:get_V s:+3SG
+beginner's	beginn:begin_V er:er_s 's:+GEN
+behaves	behave:behave_V s:+3SG
+beheld	beheld:behold_V ~:+PAST
+benefactor's	benefactor:benefactor_N 's:+GEN
+biceps	biceps:biceps_N
+bilinguals	bi:bi_p lingual:lingual_A s:+PL
+bit	bit:bite_V ~:+PAST, bit:bit_N
+bite	bite:bite_V, bite:bite_V
+blabber	blabb:blab_V er:er_s
+blimpish	blimp:Colonel_Blimp_N ish:ish_s
+blinkers	blink:blink_V er:er_s s:s_s
+blinks	blink:blink_V s:+PL, blink:blink_V s:+3SG
+boarder's	board:board_N er:er_s 's:+GEN
+bock	bock:bock_N
+bolshevism's	bolshev:Bolshevik_N ism:ism_s 's:+GEN
+bondholder's	bond:bond_N hold:hold_V er:er_s 's:+GEN
+bonniest	bonni:bonny_A est:+SUP
+boogie	boogie:boogie_N
+bouncers'	bounc:bounce_V er:er_s s:+PL ':+GEN
+bourse's	bourse:bourse_N 's:+GEN
+bowels'	bowel:bowel_N s:+PL ':+GEN, bowels:bowels_N ':+GEN
+bowler	bowl:bowl_N er:er_s, bowler:bowler_N
+bows'	bow:bow_N s:+PL ':+GEN, bow:bow_V s:+PL ':+GEN
+braggadocio	braggadocio:braggadocio_N
+bravura	bravura:bravura_N
+breadwinner	bread:bread_N winn:win_V er:er_s
+breakfasted	break:break_V fast:fast_V ed:+PAST
+breathy	breath:breath_N y:y_s
+breech	breech:breech_N
+bringing	bring:bring_V ing:+PCP1
+briskness	brisk:brisk_A ness:ness_s
+broadminded	broad:broad_A mind:mind_N ed:ed_s
+buffalo's	buffalo:buffalo_N 's:+GEN
+buffeted	buffet:buffet_V ed:+PAST
+buffets	buffet:buffet_V s:+PL, buffet:buffet_V s:+3SG
+buildings'	building:building_V s:+PL ':+GEN
+bulky	bulk:bulk_N y:y_s
+bulldozers'	bull:bull_N doz:doze_V er:er_s s:+PL ':+GEN
+bullshit	bull:bull_N shit:shit_V, bull:bull_N shit:shit_V, bullshit:bullshit
+bump's	bump:bump_V 's:+GEN
+bungles	bungle:bungle_V s:+PL, bungle:bungle_V s:+3SG
+bunkhouses	bunk:bunk_N house:house_N s:+PL
+business'	busi:busy_A ness:ness_s ':+GEN
+cabal's	cabal:cabal_N 's:+GEN
+cable's	cable:cable_N 's:+GEN
+caddie	caddie:caddie_N, caddie:caddie_V
+carcinogens	carcino:carcinoma_N gen:gen_s s:+PL
+carded	card:card_N ed:+PAST
+cardinal's	cardinal:cardinal_A 's:+GEN
+cardinals'	cardinal:cardinal_A s:+PL ':+GEN
+caricaturists	caricatur:caricature_N ist:ist_s s:+PL
+carpetbagger	carpetbagger:carpetbagger_N
+carriage	carri:carry_V age:age_s
+carriages	carri:carry_V age:age_s s:+PL
+carton	carton:carton_N
+castrates	castrate:castrate_V s:+3SG
+casually	casual:casual_A ly:ly_s
+cat-o'-nine-tails	cat-o'-nine-tails:cat-o'-nine-tails_N
+catastrophe	catastrophe:catastrophe_N
+catechisms	catechism:catechism_N s:+PL
+cathode	cathode:cathode_N
+ceaseless	cease:cease_V less:less_s
+celery	celery:celery_N
+centuries	centuri:century_N es:+PL
+cereal's	cereal:cereal_N 's:+GEN
+cerebrum	cerebrum:cerebrum_N
+chain-gang	chain:chain_N -:~ gang:gang_N
+chairwoman's	chair:chair_N woman:woman_N 's:+GEN
+chancellor	chancellor:chancellor_N
+chaperoning	chaperon:chaperon_N ing:+PCP1
+charging	charg:charge_V ing:+PCP1
+chase's	chase:chase_V 's:+GEN
+chauvinism	chauvinism:chauvinism_N
+cheerful	cheer:cheer_V ful:ful_s
+cheerfully	cheer:cheer_V ful:ful_s ly:ly_s
+chestnuts	chestnut:chestnut_N s:+PL
+chigger	chigger:chigger_N
+chivied	chivi:chivy_V ed:+PAST
+citron's	citron:citron_N 's:+GEN
+claws	claw:claw_N s:+PL, claw:claw_N s:+3SG
+clay's	clay:clay_N 's:+GEN
+clean-cut	clean:clean_A -:~ cut:cut_V
+clews	clew:clew_N s:+PL, clew:clew_N s:+3SG
+climaxes	climax:climax_N es:+PL, climax:climax_N es:+3SG
+co-ops	co:co_p -:~ op:operate_V ~:ion_s ~:ive_s s:+PL
+codas	coda:coda_N s:+PL
+codeine	codeine:codeine_N
+cognate	cognate:cognate_A, cognate:cognate_A
+coincidences	coincid:coincide_V ~:ent_s ence:ence_s s:+PL
+collapse	col:col_p lapse:lapse_N, col:col_p lapse:lapse_N
+commingle	com:com_p mingle:mingle_V
+community	commun:commune_N ~:al_s ity:ity_s
+compensatory	compensat:compensate_V ~:ion_s ory:ory_s
+completed	complet:complete_A ed:+PAST
+complimented	compliment:compliment_V ed:+PAST
+composing	compos:compose_V ing:+PCP1
+compromises	compromise:compromise_V s:+PL, compromise:compromise_V s:+3SG
+computations	comput:compute_V ation:ation_s s:+PL
+conceits	conceit:conceit_N s:+PL
+concession	concess:concede_V ion:ion_s
+conciliating	conciliat:conciliate_V ing:+PCP1
+concordant	concord:concord_N ant:ant_s
+conferred	conferr:confer_V ed:+PAST
+confinement	confine:confine_V ment:ment_s
+confiscation	confiscat:confiscate_V ion:ion_s
+conflated	conflat:conflate_V ed:+PAST
+conformance	con:con_p form:form_N ance:ance_s
+confusion	confus:confuse_V ion:ion_s
+congress's	congress:Congress_N 's:+GEN, congress:congress_N 's:+GEN
+conservationist's	conserv:conserve_V ation:ation_s ist:ist_s 's:+GEN
+contempt	contempt:contempt_N
+contingency	conting:contingent_A ency:ency_s
+controls	control:control_V s:+PL, control:control_V s:+3SG
+conversed	convers:converse_V ed:+PAST
+convertibles	convert:convert_V ible:ible_s s:+PL
+convicts	convict:convict_V s:+PL, convict:convict_V s:+3SG
+coolie	coolie:coolie_N
+corinthian	corinth:Corinth_N ian:ian_s, corinth:Corinth_N ian:ian_s
+cornered	corner:corner_N ed:+PAST, cornered:cornered_V
+cornstarch	corn:corn_N starch:starch_N
+corralled	corrall:corral_N ed:+PAST
+corroborated	corroborat:corroborate_V ed:+PAST
+corsages	corsage:corsage_N s:+PL
+corvette	corvette:corvette_N
+cote's	cote:cote_N 's:+GEN
+counterfeiting	counterfeit:counterfeit_A ing:+PCP1
+coveting	covet:covet_V ing:+PCP1
+cramped	cramp:cramp_N ed:+PAST, cramped:cramped_V
+crayoning	crayon:crayon_N ing:+PCP1
+creativeness	creat:create_V ~:ion_s ive:ive_s ness:ness_s
+crematoria	cremat:cremate_V oria:orium_s ~:+PL
+criers	cri:cry_V er:er_s s:+PL
+criminal	crimin:crime_N al:al_s, crimin:crime_N al:al_s
+criminally	crimin:crime_N al:al_s ly:ly_s
+crocodile's	crocodile:crocodile_N 's:+GEN
+crookedness	crooked:crooked_V ness:ness_s
+cross-indexing	cross:cross_p -:~ index:index_N ing:+PCP1
+crossings'	crossing:crossing_V s:+PL ':+GEN
+crow	crow:crow_N, crow:crow_V, crow:crow_V
+cul-de-sac's	cul-de-sac:cul-de-sac_N 's:+GEN
+culprit	culprit:culprit_N
+cults	cult:cult_N s:+PL
+curator	curator:curator_N
+cursing	curs:curse_V ing:+PCP1
+cuticle	cuticle:cuticle_N
+cyclops'	cyclops:Cyclops_N ':+GEN
+daddy's	dadd:dad_N y:y_s 's:+GEN
+daguerreotypes	daguerreotype:daguerreotype_N s:+PL
+daiquiris	daiquiri:daiquiri_N s:+PL
+dandies	dandi:dandy_N es:+PL
+dandled	dandl:dandle_V ed:+PAST
+danny	danny:Danny_N
+date	date:date_N, date:date_N
+debased	debas:debase_V ed:+PAST
+debriefed	de:de_p brief:brief_A ed:+PAST
+december's	december:December_N 's:+GEN
+decency	dec:decent_A ency:ency_s
+deciphering	de:de_p cipher:cipher_N ing:+PCP1
+declaiming	de:de_p claim:claim_V ing:+PCP1
+declamations	de:de_p clam:claim_V ation:ation_s s:+PL
+declaring	declar:declare_V ing:+PCP1
+dedicating	dedicat:dedicate_V ing:+PCP1
+defames	de:de_p fame:fame_N s:+3SG
+defeats	defeat:defeat_V s:+PL, defeat:defeat_V s:+3SG
+defendants	defend:defend_V ant:ant_s s:+PL
+dehumanize	de:de_p human:human_A ize:ize_s
+deluded	delud:delude_V ed:+PAST
+demoralize	de:de_p moral:moral_A ize:ize_s
+denationalized	de:de_p nation:nation_N al:al_s iz:ize_s ed:+PAST
+deplorable	deplor:deplore_V able:able_s
+deputizes	deput:depute_V ~:y_s ize:ize_s s:+3SG
+derv	derv:derv_N
+describable	describ:describe_V able:able_s
+designer's	design:design_V er:er_s 's:+GEN
+detraction	detract:detract_from_V ion:ion_s
+detraining	de:de_p train:train_N ing:+PCP1
+devaluation	de:de_p valu:value_N at:ate_s ion:ion_s, de:de_p valu:value_N ation:ation_s
+deviancies	devi:deviate_V ~:ant_s anci:ancy_s es:+PL
+differential	differ:differ_V ent:ent_s ~:ence_s ial:ial_s, differ:differ_V ent:ent_s ~:ence_s ial:ial_s
+diking	dik:dike_N ing:+PCP1
+diplomatically	diplomat:diplomat_N ic:ic_s ally:ally_s
+disorders	dis:dis_p order:order_V s:+PL, dis:dis_p order:order_V s:+3SG
+disorientation	dis:dis_p orient:orient_A at:ate_s ion:ion_s, dis:dis_p orientat:orientate_V ion:ion_s
+dispassionate	dis:dis_p passion:passion_N ate:ate_s
+disposing	dispos:dispose_V ing:+PCP1
+dissolute	dissolute:dissolute_A
+divorcee	divorc:divorce_V ee:ee_s
+domesticating	domestic:domestic_A at:ate_s ing:+PCP1
+dominated	dominat:dominate_V ed:+PAST
+dos'	do:do_N s:+PL ':+GEN
+double-clutch	double:double_A -:~ clutch:clutch_V
+dressings'	dressing:dressing_V s:+PL ':+GEN
+drips	drip:drip_V s:+PL, drip:drip_V s:+3SG
+drumheads	drum:drum_N head:head_N s:+PL
+drunkenly	drunk:drink_V en:en_s ly:ly_s
+dubbin	dubbin:dubbin_N, dubbin:dubbin_N
+dudes	dude:dude_N s:+PL
+duellist's	duell:duel_N ist:ist_s 's:+GEN
+dumps	dump:dump_V s:+PL, dump:dump_V s:+3SG, dumps:dumps_N
+dutifully	duti:duty_N ful:ful_s ly:ly_s
+dynamics'	dynamic:dynamic_A s:+PL ':+GEN, dynamic:dynamic_A s:s_s ':+GEN
+earplugs	ear:ear_N plug:plug_N s:+PL
+eaves	eaves:eaves_N
+eel	eel:eel_N
+eels	eel:eel_N s:+PL
+egotistically	egot:ego_N ~:ism_s ist:ist_s ic:ic_s ally:ally_s, egot:ego_N ~:ism_s ist:ist_s ical:ical_s ly:ly_s
+electioneering	elect:elect_A ion:ion_s eer:eer_s ing:+PCP1, electioneering:electioneering_V
+elevations	elevat:elevate_V ion:ion_s s:+PL
+elite's	elite:elite_N 's:+GEN
+embossing	em:em_p boss:boss_N ing:+PCP1
+ends'	end:end_N s:+PL ':+GEN
+entitlement	entitle:entitle_V ment:ment_s
+entitling	entitl:entitle_V ing:+PCP1
+equalizes	equal:equal_A ize:ize_s s:+3SG
+equerry's	equerry:equerry_N 's:+GEN
+equipped	equipp:equip_V ed:+PAST, equipped:equipped_V
+eschewed	eschew:eschew_V ed:+PAST
+espouses	espouse:espouse_V s:+3SG
+estimator	estimat:estimate_V or:or_s
+ewers'	ewer:ewer_N s:+PL ':+GEN
+ex-serviceman	ex:ex_p -:~ serv:serve_V ice:ice_s man:man_N
+exculpation	exculpat:exculpate_V ion:ion_s
+exit	exit:exit_V, exit:exit_V
+exorbitance	exorbit:exorbitant_A ance:ance_s
+expressway	express:express_A way:way_N
+extreme's	extreme:extreme_A 's:+GEN
+fairs	fair:fair_N s:+PL
+fairyland	fairy:fairy_N land:land_N
+fanciers'	fanci:fancy_N er:er_s s:+PL ':+GEN
+farmers	farm:farm_N er:er_s s:+PL
+faster	fast:fast_A er:+CMP, fast:fast_A er:+CMP
+fault's	fault:fault_N 's:+GEN
+fawn	fawn:fawn_N, fawn:fawn_V
+feasts	feast:feast_N s:+PL, feast:feast_N s:+3SG
+fences	fence:fence_N s:+PL, fence:fence_N s:+3SG
+ferment	ferment:ferment_V, ferment:ferment_V
+fielder's	field:field_N er:er_s 's:+GEN
+fig-leaf	fig:fig_N -:~ leaf:leaf_N
+films	film:film_N s:+PL, film:film_N s:+3SG
+finalizes	final:final_A ize:ize_s s:+3SG
+fire-eater	fire:fire_N -:~ eat:eat_V er:er_s
+firepower	fire:fire_N power:power_N
+fireproofed	fire:fire_N proof:proof_s ed:+PAST
+firestorms	fire:fire_N storm:storm_N s:+PL
+fizzled	fizz:fizz_V l:le_s ed:+PAST
+flambeau	flambeau:flambeau_N
+fled	fled:flee_V ~:+PAST
+flirting	flirt:flirt_V ing:+PCP1
+flitted	flitt:flit_V ed:+PAST
+floes	floe:floe_N s:+PL
+fluffy	fluff:fluff_N y:y_s
+fluid's	fluid:fluid_A 's:+GEN
+flurried	flurri:flurry_N ed:+PAST
+footfalls	foot:foot_N fall:fall_V s:+PL
+foppish	fopp:fop_N ish:ish_s
+four-poster	four:four_Q -:~ post:post_N er:er_s
+four-wheeler	four:four_Q -:~ wheel:wheel_N er:er_s
+freighted	freight:freight_N ed:+PAST
+freshman	fresh:fresh_A man:man_N
+frisian	frisian:Frisian_N
+frivolities	frivol:frivolous_A iti:ity_s es:+PL
+frivolous	frivolous:frivolous_A
+frolicsome	frolic:frolic_V some:some_s
+frowns	frown:frown_V s:+PL, frown:frown_V s:+3SG
+frugality	frugal:frugal_A ity:ity_s
+furthering	further:further_A ing:+PCP1
+galley's	galley:galley_N 's:+GEN
+gamecocks	game:game_N cock:cock_N s:+PL
+gangers	gang:gang_N er:er_s s:+PL
+garbage-can	garbage:garbage_N -:~ can:can_N
+gasify	gas:gas_N ify:ify_s
+gaslight	gas:gas_N light:light_N
+gatecrasher	gate:gate_N crash:crash_N er:er_s
+geese	geese:goose_N ~:+PL
+geldings	gelding:gelding_V s:+PL
+germans'	german:German_A s:+PL ':+GEN
+giant	giant:giant_N
+giraffe's	giraffe:giraffe_N 's:+GEN
+giving	giv:give_V ing:+PCP1
+gladiator	gladiator:gladiator_N
+glides	glide:glide_V s:+PL, glide:glide_V s:+3SG
+glowering	glower:glower_V ing:+PCP1
+glows	glow:glow_V s:+3SG
+godparents'	god:God_N parent:parent_N s:+PL ':+GEN
+gored	gor:gore_N ed:ed_s, gor:gore_V ed:+PAST
+gourmands	gourmand:gourmand_N s:+PL
+grandad	gran:grand_A dad:dad_N
+graphical	graph:graph_N ical:ical_s
+griffon	griffon:griffon_N
+gross'	gross:gross_A ':+GEN
+growers'	grow:grow_V er:er_s s:+PL ':+GEN
+guard	guard:guard_N, guard:guard_N
+gull's	gull:gull_N 's:+GEN, gull:gull_V 's:+GEN
+habitues	habitue:habitue_N s:+PL
+hagiographies	hagiographi:hagiography_N es:+PL
+haloes	halo:halo_N es:+PL
+hamlets'	hamlet:hamlet_N s:+PL ':+GEN
+handmaid's	hand:hand_N maid:maid_N 's:+GEN
+handpick	hand:hand_N pick:pick_V
+handsaws	hand:hand_N saw:saw_N s:+PL
+hap's	hap:hap_N 's:+GEN
+harbours	harbour:harbour_N s:+PL, harbour:harbour_N s:+3SG
+hardbacked	hard:hard_A back:back_N ed:ed_s
+harridans	harridan:harridan_N s:+PL
+headboards	head:head_N board:board_N s:+PL
+headlamp	head:head_N lamp:lamp_N
+healing	heal:heal_V ing:+PCP1, healing:healing_V
+heap	heap:heap_N, heap:heap_N
+heartbroken	heart:heart_N broken:broken_V
+heartburn	heart:heart_N burn:burn_V
+heavies	heav:heave_V i:y_s es:+PL
+hebraic	hebra:Hebrew_A ic:ic_s
+helplessness	help:help_V less:less_s ness:ness_s
+hemispheres	hemisphere:hemisphere_N s:+PL
+heron	heron:heron_N
+hesse's	hesse:Hesse_N 's:+GEN
+hew	hew:hew_V
+hi-fi	hi:high_A -:~ fi:fidelity_N, hi:high_A -:~ fi:fidelity_N
+hitches	hitch:hitch_V es:+PL, hitch:hitch_V es:+3SG
+hitchhiker's	hitch:hitch_V hik:hike_V er:er_s 's:+GEN
+hoarfrost	hoar:hoar_A frost:frost_N
+homework's	home:home_N work:work_V 's:+GEN
+homogenizes	homogenize:homogenize_V s:+3SG
+hooker's	hook:hook_N er:er_s 's:+GEN
+hooks'	hook:hook_N s:+PL ':+GEN
+hookworms	hook:hook_N worm:worm_N s:+PL
+horrid	horrid:horrid_A
+horrifically	horr:horror_N if:ify_s ic:ic_s ally:ally_s
+housekeeping	house:house_N keeping:keeping_V
+hugging	hugg:hug_V ing:+PCP1
+hydroponic	hydroponic:hydroponic_A
+hydrotherapy	hydro:hydro_p therapy:therapy_N
+hyperbolical	hyperbol:hyperbola_N ical:ical_s, hyperbol:hyperbole_N ical:ical_s
+idem	idem:idem_O
+idolizing	idol:idol_N iz:ize_s ing:+PCP1
+ignominiously	ignomini:ignominy_N ous:ous_s ly:ly_s
+ill-omened	ill:ill_A -:~ omen:omen_N ed:ed_s
+illness'	ill:ill_A ness:ness_s ':+GEN
+immutably	im:im_p mutab:mutable_A ly:ly_s
+impersonators	im:im_p person:person_N at:ate_s or:or_s s:+PL
+imponderable	im:im_p ponder:ponder_V able:able_s, im:im_p ponder:ponder_V able:able_s
+impregnable	impregnable:impregnable_A
+improvised	improvis:improvise_V ed:+PAST
+inaccurately	in:in_p accurate:accurate_A ly:ly_s
+incipient	incipient:incipient_A
+incumbency	incumb:incumbent_A ency:ency_s
+indignities'	in:in_p digniti:dignity_N es:+PL ':+GEN
+infelicities	in:in_p felic:felicity_N ~:ous_s iti:ity_s es:+PL
+infidels	infidel:infidel_N s:+PL
+infinitives	infinitive:infinitive_A s:+PL
+ingots'	ingot:ingot_N s:+PL ':+GEN
+ingredients	ingredient:ingredient_N s:+PL
+instigators	instigat:instigate_V or:or_s s:+PL
+institutional	institut:institute_V ion:ion_s al:al_s
+insulation's	insulat:insulate_V ion:ion_s 's:+GEN
+insures	in:in_p sure:sure_A s:+3SG
+interchanged	inter:inter_p chang:change_V ed:+PAST
+intermediary's	inter:inter_p medi:mediate_V ary:ary_s 's:+GEN
+interposing	inter:inter_p pos:pose_V ing:+PCP1
+intimating	intimat:intimate_A ing:+PCP1
+inundate	inundate:inundate_V
+invalidated	in:in_p valid:valid_A at:ate_s ed:+PAST
+inviolate	in:in_p violate:violate_V
+ironclad	iron:iron_N clad:clad_V, iron:iron_N clad:clad_V
+irony's	irony:irony_N 's:+GEN
+jarring	jarr:jar_V ing:+PCP1, jarring:jarring_V
+jell-o's	jell-o:Jell-O_N 's:+GEN
+joggling	jogg:jog_V l:le_s ing:+PCP1
+joinery	join:join_V ery:ery_s
+joker	jok:joke_V er:er_s
+jollifications	joll:jolly_A ific:ify_s ation:ation_s s:+PL
+joyless	joy:joy_N less:less_s
+junctions	junction:junction_N s:+PL
+jungles	jungle:jungle_N s:+PL
+junks	junk:junk_N s:+PL, junk:junk_N s:+3SG
+katydid	katydid:katydid_N
+keelhauls	keel:keel_N haul:haul_V s:+3SG
+khan's	khan:khan_N 's:+GEN
+kiddies	kidd:kid_N i:y_s es:+PL
+kids	kid:kid_N s:+PL, kid:kid_V s:+3SG
+kip's	kip:kip_V 's:+GEN
+kirks'	kirk:kirk_N s:+PL ':+GEN
+kitchenette's	kitchen:kitchen_N ette:ette_s 's:+GEN
+kneads	knead:knead_V s:+3SG
+knesset	knesset:Knesset_N
+knife's	knife:knife_N 's:+GEN
+knocks'	knock:knock_V s:+PL ':+GEN
+knuckles'	knuckle:knuckle_N s:+PL ':+GEN
+koran	koran:Koran_N
+laboratories'	laboratori:laboratory_N es:+PL ':+GEN
+lachrymose	lachrymose:lachrymose_A
+ladybug	lady:lady_N bug:bug_N
+lapwing	lap:lap_V wing:wing_N
+larval	larv:larva_N al:al_s
+leftist	left:left_A ist:ist_s, left:left_A ist:ist_s
+legacies	lega:legate_N ci:cy_s es:+PL
+leggings	legg:leg_N ing:ing_s s:s_s
+lessens	less:less_O en:en_s s:+3SG
+libber	libb:liberate_V ~:ion_s er:er_s
+liberal's	liberal:Liberal_N 's:+GEN, liberal:liberal_A 's:+GEN
+licked	lick:lick_V ed:+PAST
+lifeboats	life:life_N boat:boat_N s:+PL
+linden	linden:linden_N
+lineman	line:line_N man:man_N
+lines	line:line_N s:+PL, line:line_N s:+3SG, lines:lines_N
+linguist's	linguist:linguist_N 's:+GEN
+liquefying	liquefy:liquefy_V ing:+PCP1
+litigates	litigate:litigate_V s:+3SG
+lofted	loft:loft_N ed:+PAST, lofted:lofted_V
+long-time	long:long_A -:~ time:time_N
+longbow	long:long_A bow:bow_V
+loon's	loon:loon_N 's:+GEN
+lotus's	lotus:lotus_N 's:+GEN
+louvred	louvr:louvre_N ed:ed_s
+louvres	louvre:louvre_N s:+PL
+low-keyed	low:low_A -:~ key:key_N ed:ed_s
+luckless	luck:luck_N less:less_s
+lurchers	lurch:lurch_N er:er_s s:+PL
+lustful	lust:lust_N ful:ful_s
+lye	lye:lye_N
+machismo	machismo:machismo_N
+magistrates'	magistrate:magistrate_N s:+PL ':+GEN
+malnutrition	mal:mal_p nutrition:nutrition_N
+maltster	malt:malt_N ster:ster_s
+malversation	malversation:malversation_N
+mandate's	mandate:mandate_N 's:+GEN
+mangling	mangl:mangle_N ing:+PCP1, mangl:mangle_V ing:+PCP1
+manicure	manicure:manicure_N, manicure:manicure_N
+manicurist's	manicur:manicure_N ist:ist_s 's:+GEN
+mantels	mantel:mantel_N s:+PL
+maroon	maroon:maroon_A, maroon:maroon_A, maroon:maroon_A
+maroons	maroon:maroon_A s:+PL, maroon:maroon_A s:+3SG
+mascot	mascot:mascot_N
+mastheads	mast:mast_N head:head_N s:+PL
+mathematician's	mathematic:mathematics_N ian:ian_s 's:+GEN
+matriarchal	matriarch:matriarch_N al:al_s
+maxis	maxi:maximum_A s:+PL
+meadows'	meadow:meadow_N s:+PL ':+GEN
+meditates	meditate:meditate_V s:+3SG
+mediterranean	mediterranean:Mediterranean_N, mediterranean:Mediterranean_N
+memento's	memento:memento_N 's:+GEN
+menacing	menac:menace_V ing:+PCP1, menacing:menacing_V
+merely	mere:mere_A ly:ly_s
+methods	method:method_N s:+PL
+midsummer	mid:mid_p summer:summer_N
+migraines	migraine:migraine_N s:+PL
+militiamen	militia:militia_N men:man_N ~:+PL
+mind-reader	mind:mind_N -:~ read:read_V er:er_s
+ministration	ministr:minister_N ~:to_P ation:ation_s
+misappropriate	mis:mis_p appropriate:appropriate_A
+misfits	mis:mis_p fit:fit_A s:+PL
+misgivings'	mis:mis_p giving:giving_V s:+PL ':+GEN
+misled	mis:mis_p led:lead_V ~:+PAST
+misunderstanding	mis:mis_p understand:understand_V ing:+PCP1, misunderstanding:misunderstanding_V
+mitigate	mitigate:mitigate_V
+mitts	mitt:mitt_N s:+PL
+mixtures	mixt:mix_V ure:ure_s s:+PL
+modelling	modell:model_N ing:+PCP1, modelling:modelling_V
+modifications'	modific:modify_V ation:ation_s s:+PL ':+GEN
+moistening	moist:moist_A en:en_s ing:+PCP1
+moodiness	mood:mood_N i:y_s ness:ness_s
+mooed	moo:moo_V ed:+PAST
+morn's	morn:morn_N 's:+GEN
+mosque	mosque:mosque_N
+murals'	mural:mural_A s:+PL ':+GEN
+mushier	mush:mush_N i:y_s er:+CMP
+mussed	muss:muss_N ed:+PAST
+muzzle's	muzzle:muzzle_N 's:+GEN
+muzzled	muzzl:muzzle_N ed:+PAST
+narrowest	narrow:narrow_A est:+SUP
+nasal	nasal:nasal_A, nasal:nasal_A
+natures	nature:nature_N s:+PL
+navies'	navi:navy_N es:+PL ':+GEN
+needlewoman	needle:needle_N woman:woman_N
+negotiations	negotiat:negotiate_V ion:ion_s s:+PL
+neighbour's	neighbour:neighbour_N 's:+GEN
+net's	net:net_A 's:+GEN
+nicked	nick:nick_V ed:+PAST
+nihilistic	nihil:nihilism_N ist:ist_s ic:ic_s
+nihilists	nihil:nihilism_N ist:ist_s s:+PL
+ninnies	ninni:ninny_N es:+PL
+nipples	nipple:nipple_N s:+PL
+nobbling	nobbl:nobble_V ing:+PCP1
+nobles	noble:noble_A s:+PL
+non-profit-making	non-profit-making:non-profit-making_A
+nostalgia	nostalgia:nostalgia_N
+nourishes	nourish:nourish_V es:+3SG
+nuisances'	nuisance:nuisance_N s:+PL ':+GEN
+numberplates	number:number_V plate:plate_N s:+PL
+numerable	numer:number_V able:able_s
+numskulls	num:numb_A skull:skull_N s:+PL
+nut	nut:nut_N, nut:nut_N
+oaks	oak:oak_N s:+PL
+oboe	oboe:oboe_N
+off-white's	off:off_B -:~ white:white_A 's:+GEN
+officeholders'	office:office_N hold:hold_V er:er_s s:+PL ':+GEN
+omnivorous	omnivorous:omnivorous_A
+opinionated	opin:opine_V ion:ion_s at:ate_s ed:ed_s
+oppressor	oppress:oppress_V or:or_s
+orbs	orb:orb_N s:+PL
+ordains	ordain:ordain_V s:+3SG
+orderliness	order:order_V li:ly_s ness:ness_s
+outcomes	out:come_V come:out_B s:+PL
+outlawing	out:out_p law:law_N ing:+PCP1
+outworks	out:out_p work:work_V s:+PL
+overbalanced	over:over_p balanc:balance_V ed:+PAST
+overburden	over:over_p burden:burden_N, over:over_p burden:burden_N
+overlapping	over:over_P lapp:lap_V ing:+PCP1
+overstock	over:over_p stock:stock_V
+overthrow	over:over_P throw:throw_V, over:over_P throw:throw_V
+palish	pal:pale_A ish:ish_s
+pamphlet's	pamphlet:pamphlet_N 's:+GEN
+panhandling	pan:pan_N handl:handle_V ing:+PCP1
+pantheons	pantheon:pantheon_N s:+PL
+paprika	paprika:paprika_N
+paragon	paragon:paragon_N
+parasols	parasol:parasol_N s:+PL
+park	park:park_N, park:park_N
+parliaments'	parliament:parliament_N s:+PL ':+GEN
+patriot's	patriot:patriot_N 's:+GEN
+pea	pea:pea_N
+peel's	peel:peel_V 's:+GEN
+pegged	pegg:peg_N ed:+PAST
+pellet	pellet:pellet_N
+penetrates	penetrate:penetrate_V s:+3SG
+pensioner	pension:pension_N er:er_s
+perceptibly	percept:perceive_V ib:ible_s ly:ly_s
+perches'	perch:perch_N es:+PL ':+GEN
+perforated	perforat:perforate_V ed:+PAST
+personas	persona:persona_N s:+PL
+pervading	pervad:pervade_V ing:+PCP1
+pests'	pest:pest_N s:+PL ':+GEN
+phaetons	phaeton:phaeton_N s:+PL
+phi's	phi:phi_N 's:+GEN
+photo's	photo:photo_p ~:graph_s 's:+GEN
+photocopier	photo:photo_p copi:copy_V er:er_s
+photogravure	photo:photo_p gravure:gravure_N
+phrenologists	phrenolog:phrenology_N ist:ist_s s:+PL
+physiognomy	physiognomy:physiognomy_N
+pianolas	pianola:Pianola_N s:+PL
+pianos	piano:piano_A s:+PL
+picketed	picket:picket_N ed:+PAST
+pieta	pieta:pieta_N
+piglet	pig:pig_N let:let_s
+pinkish	pink:pink_A ish:ish_s
+pithiest	pith:pith_N i:y_s est:+SUP
+pizza	pizza:pizza_N
+placement	place:place_N ment:ment_s
+plaice	plaice:plaice_N
+plaids	plaid:plaid_N s:+PL
+pled	pled:plead_V ~:+PAST
+plenitude	plenitude:plenitude_N
+plight	plight:plight_V, plight:plight_V
+plopped	plopp:plop_N ed:+PAST
+plucky	pluck:pluck_V y:y_s
+plumbed	plumb:plumb_N ed:+PAST
+plushest	plush:plush_N est:+SUP
+polling-booth	polling:polling_V -:~ booth:booth_N
+poops'	poop:poop_N s:+PL ':+GEN
+poppycock	poppy:poppy_N cock:cock_N
+porn's	porn:pornography_N 's:+GEN
+poser	pos:pose_V er:er_s
+pottages	pott:pot_N age:age_s s:+PL
+powered	power:power_N ed:+PAST, power:power_N ed:ed_s
+praises	praise:praise_V s:+PL, praise:praise_V s:+3SG, praises:praises_N
+prearrangements	pre:pre_p arrange:arrange_V ment:ment_s s:+PL
+precarious	precarious:precarious_A
+precedes	precede:precede_V s:+3SG
+predictions	predict:predict_V ion:ion_s s:+PL
+predictor	predict:predict_V or:or_s
+prefect's	prefect:prefect_N 's:+GEN
+premises	premise:premise_N s:+PL, premise:premise_N s:+3SG, premises:premises_N
+prepackaged	pre:pre_p pack:pack_N ag:age_s ed:+PAST
+prepared	prepar:prepare_V ed:+PAST, prepared:prepared_V
+presence	pres:present_A ence:ence_s
+pressured	press:press_V ur:ure_s ed:+PAST
+prevaricators	prevaricat:prevaricate_V or:or_s s:+PL
+prevented	prevent:prevent_V ed:+PAST
+primaries	prim:prime_A ari:ary_s es:+PL
+prizefighters	prize:prize_N fight:fight_V er:er_s s:+PL
+probabilities	probabil:probable_A iti:ity_s es:+PL
+profaning	profan:profane_A ing:+PCP1
+prognoses	prognoses:prognosis_N ~:+PL
+projectionists'	project:project_V ion:ion_s ist:ist_s s:+PL ':+GEN
+propagator	propagat:propagate_V or:or_s
+prophesy	prophesy:prophesy_V
+propjet	~:turbo_p prop:propel_V ~:er_s jet:jet_N
+prorogation	prorog:prorogue_V ation:ation_s
+proselytizes	proselyt:proselyte_N ize:ize_s s:+3SG
+protestant's	protest:protest_V ant:ant_s 's:+GEN
+proudest	proud:proud_A est:+SUP
+provokingly	provoking:provoking_V ly:ly_s
+psyche	psyche:psyche_N
+psychiatrist's	psychiatr:psychiatry_N ist:ist_s 's:+GEN
+puce's	puce:puce_N 's:+GEN
+pugnacity	pugnac:pugnacious_A ity:ity_s
+pulled	pull:pull_V ed:+PAST
+pullman	pullman:Pullman_N
+pulsed	puls:pulse_V ed:+PAST
+punch	punch:Punch_N, punch:punch_V, punch:punch_V
+punic	punic:Punic_A
+punishment	punish:punish_V ment:ment_s
+puns	pun:pun_V s:+PL, pun:pun_V s:+3SG
+puritanism	pur:pure_A it:ity_s an:an_s ism:ism_N, pur:pure_A it:ity_s an:an_s ism:ism_s
+purport	purport:purport_V, purport:purport_V
+push-ups	push:push_V -:~ up:up_B s:+PL
+quake's	quake:quake_V 's:+GEN
+quangos	quango:quango_? s:+PL
+quasar's	quas:quasi_p ar:stellar_A 's:+GEN
+quieter	quiet:quiet_A er:+CMP
+quinine's	quinine:quinine_N 's:+GEN
+quixote	quixote:Quixote_N
+rack's	rack:rack_N 's:+GEN
+rail-car	rail:rail_V -:~ car:car_N
+railway's	rail:rail_V way:way_N 's:+GEN
+raisins	raisin:raisin_N s:+PL
+rationalist	rational:rational_A ~:ism_s ist:ist_s, rational:rational_A ~:ism_s ist:ist_s
+rationalization	rational:rational_A iz:ize_s ation:ation_s
+ravine	ravine:ravine_N
+realigned	re:re_p align:align_V ed:+PAST
+realty's	real:real_A ty:ty_s 's:+GEN
+rebinds	re:re_p bind:bind_V s:+3SG
+rebuilding	re:re_p build:build_V ing:+PCP1
+recommendations'	re:re_p commend:commend_V ation:ation_s s:+PL ':+GEN
+reconciliations	re:re_p conciliat:conciliate_V ion:ion_s s:+PL, reconcili:reconcile_V ation:ation_s s:+PL
+recount	re:re_p count:count_V, re:re_p count:count_V
+recrudescence	recrudesc:recrudescent_A ence:ence_s
+rectangles	rectangle:rectangle_N s:+PL
+redressed	re:re_p dress:dress_N ed:+PAST
+reek's	reek:reek_V 's:+GEN
+reface	re:re_p face:face_N
+referendum	referendum:referendum_N
+regalia	regalia:regalia_N
+region	region:region_N
+relics	relic:relic_N s:+PL, relics:relics_N
+reminder	re:re_p mind:mind_N er:er_s
+reminds	re:re_p mind:mind_N s:+3SG
+remorsefully	remorse:remorse_N ful:ful_s ly:ly_s
+rentals'	rent:rent_V al:al_s s:+PL ':+GEN
+repatriating	repatriat:repatriate_V ing:+PCP1
+repealing	repeal:repeal_V ing:+PCP1
+repellent	repell:repel_V ent:ent_s, repell:repel_V ent:ent_s
+reposed	re:re_p pos:pose_V ed:+PAST
+republics	republic:republic_N s:+PL
+reruns'	re:re_p run:run_V s:+PL ':+GEN
+reserved	reserv:reserve_V ed:+PAST, reserved:reserved_V
+reshuffling	re:re_p shuffl:shuffle_V ing:+PCP1
+resists	resist:resist_V s:+3SG
+resonant	reson:resonate_V ant:ant_s
+respecters	respect:respect_V er:er_s s:+PL
+responsibilities	respons:respond_V ibil:ible_s iti:ity_s es:+PL
+retook	re:re_p took:take_V ~:+PAST
+returns'	re:re_p turn:turn_V s:+PL ':+GEN, returns:returns_N ':+GEN
+revels'	revel:revel_V s:+PL ':+GEN
+revere	revere:revere_V
+revertible	revert:revert_to_V ible:ible_s
+revivalist	reviv:revive_V al:al_s ist:ist_s
+revoking	revok:revoke_V ing:+PCP1
+revolt	revolt:revolt_V, revolt:revolt_V
+ribald	ribald:ribald_A, ribald:ribald_A
+ribaldry	ribald:ribald_A ry:ry_s
+rigidity	rigid:rigid_A ity:ity_s
+rigorous	rig:rigid_A or:our_s ous:ous_s
+risings	rising:rising_V s:+PL
+roadbeds	road:road_N bed:bed_N s:+PL
+robin's	robin:robin_N 's:+GEN
+rodeo's	rodeo:rodeo_N 's:+GEN
+rods'	rod:rod_N s:+PL ':+GEN
+roll-on	roll:roll_V -:~ on:on_P
+roman's	rom:Rome_N an:an_s 's:+GEN
+roughhouse	rough:rough_A house:house_N, rough:rough_A house:house_N
+roused	rous:rouse_V ed:+PAST
+ruffles	ruffle:ruffle_V s:+PL, ruffle:ruffle_V s:+3SG
+ruinously	ruin:ruin_V ous:ous_s ly:ly_s
+rum's	rum:rum_N 's:+GEN
+ruminated	ruminat:ruminate_V ed:+PAST
+rumpling	rumpl:rumple_V ing:+PCP1
+sabah	sabah:Sabah_N
+sackbuts	sackbut:sackbut_N s:+PL
+safeguard	safe:safe_A guard:guard_N, safe:safe_A guard:guard_N
+salad-dressings	salad:salad_N -:~ dressing:dressing_V s:+PL
+saleroom	sale:sale_N room:room_N
+sales	sale:sale_N s:+PL, sales:sales_N
+salesclerk's	sales:sales_N clerk:clerk_N 's:+GEN
+salon's	salon:salon_N 's:+GEN
+salvoes	salvo:salvo_N es:+PL
+samplers	sampl:sample_V er:er_s s:+PL
+sanitaria	sanitaria:sanitarium_N ~:+PL
+saturn's	saturn:Saturn_N 's:+GEN
+saxons'	saxon:Saxon_N s:+PL ':+GEN
+scallops	scallop:scallop_N s:+PL, scallop:scallop_N s:+3SG
+scantier	scant:scant_A i:y_s er:+CMP
+sceptics	sceptic:sceptic_N s:+PL
+schedules	schedule:schedule_V s:+PL, schedule:schedule_V s:+3SG
+schnitzels	schnitzel:schnitzel_N s:+PL
+scholarly	schol:school_N ar:ar_s ly:ly_s
+schoolgirls'	school:school_N girl:girl_N s:+PL ':+GEN
+schoolmistress'	school:school_N mistress:mistress_N ':+GEN
+scullion	scullion:scullion_N
+se	se:SE
+sea-legs	sea:sea_N -:~ legs:legs_N
+sea-lion	sea:sea_N -:~ lion:lion_N
+seaborne	sea:sea_N borne:borne_V
+season's	season:season_N 's:+GEN
+seasonings'	seasoning:seasoning_V s:+PL ':+GEN
+secretarial	secretari:secretary_N al:al_s
+sees'	see:see_N s:+PL ':+GEN
+seize	seize:seize_V
+self-will	self:self_p -:~ will:will_V
+septembers	september:September_N s:+PL
+sequel's	sequel:sequel_N 's:+GEN
+serialize	seri:series_N al:al_s ize:ize_s
+serially	seri:series_N al:al_s ly:ly_s
+servers'	serv:serve_V er:er_s s:+PL ':+GEN
+sevenths	seven:seven_Q th:th_s s:+PL
+seychellois	seychellois:Seychellois_A, seychellois:Seychellois_A
+sforzandi	sforzandi:sforzando_A ~:+PL
+shallower	shallow:shallow_A er:+CMP
+shank's	shank:shank_N 's:+GEN
+sheilas	sheila:sheila_N s:+PL
+shoestring's	shoe:shoe_N string:string_N 's:+GEN
+shoplifters	shop:shop_N lift:lift_V er:er_s s:+PL
+shoplifts	shop:shop_N lift:lift_V s:+3SG
+short-circuit	short:short_A -:~ circuit:circuit_N, short:short_A -:~ circuit:circuit_N
+showering	shower:shower_N ing:+PCP1
+sideswipes	side:side_N swipe:swipe_V s:+PL, side:side_N swipe:swipe_V s:+3SG
+sidings	siding:siding_V s:+PL
+silents'	silent:silent_A s:+PL ':+GEN
+silo	silo:silo_N
+simulates	simulate:simulate_V s:+3SG
+sinfully	sin:sin_V ful:ful_s ly:ly_s
+sip	sip:sip_V, sip:sip_V
+skied	ski:sky_N ed:+PAST
+skimmed-milk	skimmed:skimmed_V -:~ milk:milk_N
+skins'	skin:skin_N s:+PL ':+GEN
+skulked	skulk:skulk_V ed:+PAST
+slacking	slack:slack_A ing:+PCP1
+sleazy	sleazy:sleazy_A
+slices	slice:slice_V s:+PL, slice:slice_V s:+3SG
+slickly	slick:slick_A ly:ly_s
+slotted	slott:slot_N ed:+PAST
+slough	slough:slough_N
+sniffs	sniff:sniff_V s:+PL, sniff:sniff_V s:+3SG
+snook's	snook:snook_N 's:+GEN
+soap's	soap:soap_N 's:+GEN
+solution's	sol:solve_V ution:ution_s 's:+GEN
+sopping	sopp:sop_N ing:+PCP1, sopping:sopping_V, sopping:sopping_V
+sou	sou:sou_N
+speakerships	speak:speak_V er:er_s ship:ship_s s:+PL
+speculated	speculat:speculate_V ed:+PAST
+splashes	splash:splash_V es:+PL, splash:splash_V es:+3SG
+spread	spread:spread_V, spread:spread_V
+spreads	spread:spread_V s:+PL, spread:spread_V s:+3SG
+squeaker	squeak:squeak_V er:er_s
+squeakers	squeak:squeak_V er:er_s s:+PL
+squints	squint:squint_V s:+PL, squint:squint_V s:+3SG
+squinty	squint:squint_V y:y_s
+stable	stable:stable_A, stable:stable_N, stable:stable_N
+stage-whispers	stage:stage_N -:~ whisper:whisper_V s:+PL
+stalwart	stalwart:stalwart_A, stalwart:stalwart_A
+standpoint	stand:stand_V point:point_N
+starkers	starkers:starkers_A
+statements'	state:state_V ment:ment_s s:+PL ':+GEN
+stationer	station:station_N er:er_s
+statues'	statue:statue_N s:+PL ':+GEN
+statuette	statu:statue_N ette:ette_s
+steamship	steam:steam_N ship:ship_N
+sterilizing	steril:sterile_A iz:ize_s ing:+PCP1
+sterna	sterna:sternum_N ~:+PL
+stewards	steward:steward_N s:+PL, steward:steward_N s:+3SG
+stinting	stint:stint_V ing:+PCP1
+stocking	stock:stock_V ing:+PCP1, stocking:stocking_N
+storerooms	store:store_V room:room_N s:+PL
+strangulation	strangul:strangle_V at:ate_s ion:ion_s
+stream	stream:stream_N, stream:stream_N
+strode	strode:stride_V ~:+PAST
+strollers	stroll:stroll_V er:er_s s:+PL
+sturdy	sturdy:sturdy_A
+subsequently	sub:sub_p sequent:sequent_A ly:ly_s
+suburbanite	sub:sub_p urban:urban_A ite:ite_s, suburb:suburb_N an:an_s ite:ite_s
+sufficient	suffici:suffice_V ent:ent_s
+suffixes	suffix:suffix_N es:+PL
+sulphides	sulph:sulphur_N ide:ide_s s:+PL
+summaries	summari:summary_A es:+PL
+summarizing	summar:summary_A iz:ize_s ing:+PCP1
+sun's	sun:sun_N 's:+GEN
+sunroof	sun:sun_N roof:roof_N
+sure	sure:sure_A, sure:sure_A
+surgeon	surgeon:surgeon_N
+surliest	surli:surly_A est:+SUP
+sweet's	sweet:sweet_A 's:+GEN
+switching	switch:switch_N ing:+PCP1
+taboos'	taboo:taboo_N s:+PL ':+GEN
+tackles	tackle:tackle_N s:+PL, tackle:tackle_N s:+3SG
+tallying	tally:tally_N ing:+PCP1
+tamped	tamp:tamp_V ed:+PAST
+tangible	tangible:tangible_A
+tangs	tang:tang_N s:+PL
+tarrying	tarry:tarry_V ing:+PCP1
+taster	tast:taste_V er:er_s
+tatters	tatt:tat_V er:er_s s:+PL, tatters:tatters_N
+tattlers	tattl:tattle_V er:er_s s:+PL
+taunts	taunt:taunt_N s:+PL, taunt:taunt_N s:+3SG
+taxiing	taxi:taxi_N ing:+PCP1
+teasel	teasel:teasel_N
+ted's	ted:teddy_N ~:boy_N 's:+GEN
+telegraph	tele:tele_p graph:graph_s, tele:tele_p graph:graph_s
+temper	temper:temper_V, temper:temper_V
+temporizing	temporiz:temporize_V ing:+PCP1
+tempter	tempt:tempt_V er:er_s
+tenable	tenable:tenable_A
+tenor's	tenor:tenor_N 's:+GEN
+terrified	terr:terror_N ifi:ify_s ed:+PAST
+test's	test:test_N 's:+GEN
+tests	test:test_N s:+PL, test:test_N s:+3SG
+tete-a-tete	tete-a-tete:tete-a-tete_N, tete-a-tete:tete-a-tete_N
+thanksgivings	thanks:thanks_N giving:giving_V s:+PL, thanks:thanks_N giving:giving_V ~:day_N s:+PL
+thematic	them:theme_N atic:atic_s
+theodolite	theodolite:theodolite_N
+threshing	thresh:thresh_V ing:+PCP1
+throwaways	throw:throw_V a:a_p way:way_N s:+PL
+tie-on	tie:tie_V -:~ on:on_P
+timpanist	timpan:timpani_N ist:ist_s
+tiredness	tired:tired_V ness:ness_s
+toes	toe:toe_N s:+PL
+toilers	toil:toil_V er:er_s s:+PL
+tomatoes'	tomato:tomato_N es:+PL ':+GEN
+toothaches	tooth:tooth_N ache:ache_V s:+PL
+toothy	tooth:tooth_N y:y_s
+topazes	topaz:topaz_N es:+PL
+tornados	tornado:tornado_N s:+PL
+torpedos	torpedo:torpedo_N s:+3SG
+torturers	tortur:torture_N er:er_s s:+PL
+tournaments'	tournament:tournament_N s:+PL ':+GEN
+touted	tout:tout_V ed:+PAST
+tow's	tow:tow_V 's:+GEN
+toward	to:to_P ward:ward_s
+towelling	towell:towel_N ing:+PCP1, towelling:towelling_V
+tract	tract:tract_N
+trafficked	traffick:traffic_V ed:+PAST
+tramples	tramp:tramp_V le:le_s s:+PL, tramp:tramp_V le:le_s s:+3SG
+transcendency	transcend:transcend_V ~:ent_s ency:ency_s
+transmogrification	transmogrific:transmogrify_V ation:ation_s
+trashiness	trash:trash_N i:y_s ness:ness_s
+treasure	treasure:treasure_N, treasure:treasure_N
+trellising	trellis:trellis_N ing:+PCP1
+trendiness'	trend:trend_V i:y_s ness:ness_s ':+GEN
+trestle-tables	trestle:trestle_N -:~ table:table_N s:+PL
+triads	triad:triad_N s:+PL
+tribunal's	tribun:tribune_N al:al_s 's:+GEN
+triplex's	triplex:Triplex_N 's:+GEN
+triumvirate	triumvir:triumvir_N ate:ate_s
+truce	truce:truce_N
+truck	truck:truck_N
+trumpeters	trump:trump_N et:et_s er:er_s s:+PL
+tugboats	tug:tug_N boat:boat_N s:+PL
+tureen	tureen:tureen_N
+turncoats	turn:turn_V coat:coat_N s:+PL
+twangs	twang:twang_V s:+PL, twang:twang_V s:+3SG
+twin's	twin:twin_N 's:+GEN
+twine's	twine:twine_N 's:+GEN
+twits	twit:twit_V s:+PL, twit:twit_V s:+3SG
+two-ply	two:two_Q -:~ ply:ply_N, two:two_Q -:~ ply:ply_N
+two-way	two:two_Q -:~ way:way_N
+unabridged	un:un_p abridged:abridged_V
+unadopted	un:un_p adopted:adopted_V
+underage	under:under_p age:age_N
+undergrad	under:under_P grad:graduate_V
+undertaking's	undertaking:undertaking_V 's:+GEN
+undies	undies:undies_N
+unequivocally	un:un_p equivocal:equivocal_A ly:ly_s
+unheard	un:un_p heard:heard_V
+unhooks	un:un_p hook:hook_N s:+3SG
+unreserved	un:un_p reserved:reserved_V
+unseeingly	un:un_p seeing:seeing_V ly:ly_s
+upstairs	up:up_B stairs:stairs_N, up:up_B stairs:stairs_N, up:up_B stairs:stairs_N
+urchins	urchin:urchin_N s:+PL
+vacillation	vacillat:vacillate_V ion:ion_s
+vassals	vassal:vassal_N s:+PL
+vaudeville	vaudeville:vaudeville_N
+ventriloquists	ventriloqu:ventriloquism_N ist:ist_s s:+PL
+venue	venue:venue_N
+versification	vers:verse_N ific:ify_s ation:ation_s
+viceregal	vice:vice_p regal:regal_A
+vicunas	vicuna:vicuna_N s:+PL
+vineyard	vine:vine_N yard:yard_N
+volunteer's	volunteer:volunteer_V 's:+GEN
+voteless	vote:vote_N less:less_s
+vouchsafed	vouch:vouch_for_V saf:safe_A ed:+PAST
+vulgarized	vulgar:vulgar_A iz:ize_s ed:+PAST
+waistbands	waist:waist_N band:band_N s:+PL
+waistcoats	waist:waist_N coat:coat_N s:+PL
+walk-up	walk:walk_V -:~ up:up_B, walk:walk_V -:~ up:up_B
+want-ad	want:want_V -:~ ad:advertise_V ~:ment_s
+warders	ward:ward_N er:er_s s:+PL
+warming	warm:warm_A ing:+PCP1
+washstands	wash:wash_V stand:stand_V s:+PL
+watch-chains	watch:watch_V -:~ chain:chain_N s:+PL
+watercourses	water:water_N course:course_N s:+PL
+waxwork	wax:wax_N work:work_V
+wearers	wear:wear_V er:er_s s:+PL
+welshing	welsh:welsh_V ing:+PCP1
+whiners'	whin:whine_V er:er_s s:+PL ':+GEN
+whipping	whipp:whip_N ing:+PCP1, whipping:whipping_V
+whispers	whisper:whisper_V s:+PL, whisper:whisper_V s:+3SG
+whoops	whoop:whoop_N s:+PL, whoop:whoop_N s:+3SG
+wiltons	wilton:Wilton_N s:+PL
+winced	winc:wince_V ed:+PAST
+winner	winn:win_V er:er_s
+wipes	wipe:wipe_V s:+PL, wipe:wipe_V s:+3SG
+wisdom	wis:wise_A dom:dom_s
+withhold	with:with_p hold:hold_V
+witlessness	wit:wit_N less:less_s ness:ness_s
+witnessing	witness:witness_N ing:+PCP1
+wombs	womb:womb_N s:+PL
+worship	worship:Worship_N, worship:worship_N, worship:worship_N
+worshipper	worshipp:worship_N er:er_s
+wreaking	wreak:wreak_V ing:+PCP1
+yetis	yeti:yeti_N s:+PL
+yowling	yowl:yowl_V ing:+PCP1
+zany's	zany:zany_A 's:+GEN
+zeniths	zenith:zenith_N s:+PL
+zodiac	zodiac:zodiac_N
+zombie's	zombie:zombie_N 's:+GEN
+hopeless	hope: less:
+equality	equal: ity:
+falling	fall: ing:
+fortitude	forti: tude:
+played	play: ed:
+girls	girl: s:
+multithreading	multi: thread: ing:
+oven	oven:
+dishonored	dis: honor: ed:
+stars	star: s:
+statement	state: ment:
+specialist	special: ist:
+waterproof	water: proof:
+languages	language: s:
+recall	re: call:
+building	build: ing:
+overfitting	over: fitt: ing:
+reasonable	reason: able:
+glasses	glass: es:
+teacher	teach: er:
+brilliant	brill: i: ant:
+balls	ball: s:
+crawler	crawl: er:
+blackboards	black: board: s:
+misclassify	mis: class: ify:
+painting	paint: ing:
+coding	cod: ing:
+processing	process: ing:
+fishes	fish: es:
+leaving	leav: ing:
+government	govern: ment:
+nevertheless	never: the: less:
+qualify	qualif: y:
+endangered	en: danger: ed:
+highway	high: way:
+harmless	harm: less:
+eyebrows	eye: brow: s:
+ecosystem	eco: system:
+infrequently	in: frequent: ly:
+representative	re: present: ative:
+loneliness	lonel: iness:
+sunset	sun: set:
+measurement	measure: ment:
+bankrupcy	bank: rupcy:
+themselves	them: sel: ves:
+effectiveness	effect: ive: ness:
+quote	quot: e:
+healthy	health: y:
+intolerable	in: tolera: ble:
+searching	search: ing:
+upstream	up: stream:
+beforehand	before: hand:
+afterhours	after: hour: s:
+impatience	im: patience:
+earthquakes	earth: quake: s:
+accompanying	ac: company: ing:
+biodiversity	bio: divers: ity:
+disappointment	dis: appoint: ment:
+clothing	cloth: ing:
+godspeed	god: speed:
+greatness	great: ness:
+submit	sub: mit:
+asynchronized	a: syn: chron: ize: d:
+laziness	lazi: ness:
+namely	name: ly:
+doubts	doubt: s:
+lust	lust:
+stargazing	star: gaz: ing:
+dishes	dish: es:
+commercial	commerci: al:
+soaking	soak: ing:
+circumnavigate	circum: navigate:
+doable	do: able:
+shopping	shopp: ing:
+entanglement	entangle: ment:
+introversion	intro: version:
+separation	separ: ation:
+sparsity	spars: ity:
+tingling	tingl: ing:
+multiset	multi: set:
+torque	torque:
+sunny	sunn: y:
+sparse	sparse:
+neverending	never: end: ing:
+printable	print: able:
+relentlessness	relent: less: ness:
+ambitious	ambit: ious:
+edible	ed: ible:
+misled	mis: led:
+alpha	alpha:
+agon	agon:
+meaningless	mean: ing: less:
+morphallaxis	morph: allax: is:
+alma	alma:
+seller	sell: er:
+undo	un: do:
+disagreement	dis: agree: ment:
+brightem	bright: em:
+allele	allel: e:
+alphabet	alpha: bet:
+icecream	ice: cream:
+cranberry	cran: berry:
+able	able:
+plays	play: s:
+raspberry	rasp: berry:
+allegory	all: ego: ry:
+happier	happi: er:
+cheap	cheap:
+cheaper	cheap: er:
+cheaply	cheap: ly:
+allelomorph	allel: o: morph:
+buyers	buy: er: s:
+unable	un: able:
+agonize	agon: ize:
+happiest	happi: est:
+friendship	friend: ship:
+agony	agon: y:
+sleeper	sleep: er:
+foreshadow	fore: shadow:
+violinist	violin: ist:
+painter	paint: er:
+semiconductor	semi: conduct: or:
+misconception	mis: concept: ion:
+reform	re: form:
+pentagram	penta: gram:
+indigestion	in: digest: ion:
+householders	house: hold: er: s:
+underscore	under: score:
+rivalry	rival: ry:
+bestir	be: stir:
+discoverable	dis: cover: able:
+incredible	in: cred: ible:
+stylist	styl: ist:
+impatiently	im: patient: ly:
+motivate	motiv: ate:
+nationhood	nation: hood:
+deployment	deploy: ment:
+cowardly	coward: ly:
+employee	employ: ee:
+enjoyment	enjoy: ment:
+legalize	legal: ize:
+disapproval	dis: approv: al:
+reachable	reach: able:
+duckling	duck: ling:
+playful	play: ful:
+fashionable	fashion: able:
+elevator	elevat: or:
+reference	refer: ence:
+notable	not: able:
+telescope	tele: scope:
+dancing	danc: ing:
+antiracism	anti: rac: ism:
+payments	pay: ment: s:
+transcontinental	trans: continent: al:
+best	best:
+press	press:
+companionship	companion: ship:
+rewind	re: wind:
+illogical	il: logic: al:
+triangles	tri: angle: s:
+prepare	pre: pare:
+benefit	bene: fit:
+intraverbal	intra: verb: al:
+pleasure	pleas: ure:
+actions	act: ion: s:
+mountaineer	mountain: eer:
+fullback	full: back:
+fields	field: s:
+corner	corner:
+midfielders	mid: field: er: s:
+inject	in: ject:
+mistreat	mis: treat:
+hardest	hard: est:
+alligators	alligator: s:
+overdeveloped	over: develop: ed:
+midnight	mid: night:
+granary	gran: ary:
+kinder	kind: er:
+embark	em: bark:
+solitude	soli: tude:
+smartphone	smart: phone:
+striker	strik: er:
+shiny	shin: y:
+disrespectful	dis: respect: ful:
+counterclockwise	counter: clock: wise:
+exceptional	ex: cept: ion: al:
+return	re: turn:
+dislocation	dis: loca: tion:
+biped	bi: ped:
+mortal	mort: al:
+childhood	child: hood:
+mutant	mut: ant:
+multicolored	multi: color: ed:
+dehydration	de: hydr: at: ion:
+trained	train: ed:
+finder	find: er:
+shaped	shap: ed:
+legality	legal: ity:
+journals	journal: s:
+setup	set: up:
+mountable	mount: able:
+focused	focus: ed:
+lettered	letter: ed:
+tractable	tract: able:
+mouses	mouse: s:
+eated	eat: ed:
+moralist	moral: ist:
+microphone	micro: phone:
+serving	serv: ing:
+leaped	leap: ed:
+shearer	shear: er:
+seadog	sea: dog:
+lemures	lemure: s:
+shafts	shaft: s:
+later	lat: er:
+traded	trad: ed:
+tested	test: ed:
+learning	learn: ing:
+trailer	trail: er:
+tracked	track: ed:
+unmount	un: mount:
+moulded	mould: ed:
+leader	lead: er:
+sexist	sex: ist:
+blender	blend: er:
+queens	queen: s:
+honey	honey:
+names	name: s:
+dog	dog:
+cat	cat:
+cars	car: s:
+blending	blend: ing:
+rabbit	rabbit:
+blended	blend: ed:
+followed	follow: ed:
+bended	bend: ed:
+tastes	taste: s:
+king	king:
+queen	queen:
+taste	taste:
+follow	follow:
+tasting	tast: ing:
+rabbits	rabbit: s:
+blend	blend:
+follower	follow: er:
+bender	bend: er:
+car	car:
+tasted	tast: ed:
+bend	bend:
+named	nam: ed:
+kings	king: s:
+dogs	dog: s:
+name	name:
+cats	cat: s:
+beautiful	beauti: ful:
+snowboarder	snow: board: er:
+kneepads	knee: pad: s:
+basketball	basket: ball:
+baseball	base: ball:
+backboard	back: board:
+cardiovascular	cardio: vascul: ar:
+competitor	compet: itor:
+snorkeling	snorke: ling:
+goalkeeper	goal: keep: er:
+bodybuilders	body: build: er: s:
+unicyclist	uni: cycl: ist:
+teammate	team: mate:
+backhand	back: hand:
+curling	curl: ing:
+championship	champion: ship:
+equipment	equip: ment:
+canoeing	canoe: ing:
+deadlifting	dead: lift: ing:
+surfer	surf: er:
+movement	move: ment:
+uniform	uni: form:
+boxer	box: er:
+weightlifting	weight: lift: ing:
+armlock	arm: lock:
+quarterback	quart: er: back:
+footballers	foot: ball: er: s:
+scoreboard	score: board:
+wrestling	wrestl: ing:
+mouthguard	mouth: guard:
+doubleheader	double: head: er:
+geography	geo: graph: y:
+irresistible	ir: resist: ible:
+calligraphy	calli: graph: y:
+misinterpret	mis: interpret:
+despicable	despic: able:
+qualifier	qualifi: er:
+parts	part: s:
+developer	develop: er:
+speechless	speech: less:
+reuse	re: use:
+encounter	en: counter:
+psychology	psycho: logy:
+faithfully	faith: ful: ly:
+eagerly	eager: ly:
+unqualified	un: qualifi: ed:
+underachieving	under: achiev: ing:
+underestimated	under: estimat: ed:
+developing	develop: ing:
+deactivate	de: activ: ate:
+keyboards	key: board: s:
+series	serie: s:
+encountered	en: counter: ed:
+anonymous	anonym: ous:
+management	manage: ment:
+keyboard	key: board:
+faithful	faith: ful:
+misunderstanding	mis: understand: ing:
+despotic	despot: ic:
+kindness	kind: ness:
+spinelessness	spine: less: ness:
+qualified	qualifi: ed:
+development	develop: ment:
+cutting	cutt: ing:
+enlarge	en: large:
+radiowaves	radio: wave: s:
+disinfected	dis: infect: ed:
+bears	bear: s:
+unmotivated	un: motivat: ed:
+fallen	fall: en:
+slanting	slant: ing:
+granddaughters	grand: daughter: s:
+theatre	theatre:
+politics	politic: s:
+ability	abil: ity:
+footprints	foot: print: s:
+tactician	tactic: ian:
+stationary	station: ary:
+watermark	water: mark:
+killed	kill: ed:
+treating	treat: ing:
+employed	employ: ed:
+unrepeated	un: repeat: ed:
+girlfriend	girl: friend:
+national	nation: al:
+destroyer	destroy: er:
+canceled	cancel: ed:
+houses	house: s:
+reunion	re: union:
+chewing	chew: ing:
+laborers	labor: er: s:
+recruited	recruit: ed:
+finalized	final: ized:
+leveller	level: ler:
+overlight	over: light:
+invaluable	in: valu: able:
+cultivation	cultiv: ation:
+unbiographical	un: bio: graphic: al:
+unequal	un: equal:
+manpower	man: power:
+curiously	curious: ly:
+emptier	empt: ier:
+honestly	honest: ly:
+waterhouse	water: house:
+imagined	imagin: ed:
+epsilon	epsilon:
+rewater	re: water:
+acetation	acet: ation:
+colorable	color: able:
+workability	work: abil: ity:
+gravitation	gravit: ation:
+incidental	incident: al:
+campuses	camp: us: es:
+reincarnation	re: in: carn: ation:
+circuiter	circ: uit: er:
+walkover	walk: over:
+singable	sing: able:
+retaker	re: tak: er:
+implanter	im: plant: er:
+nobleman	noble: man:
+harmonic	harmon: ic:
+easterner	east: ern: er:
+pocketable	pocket: able:
+poems	poem: s:
+tidying	tidy: ing:
+fleshed	flesh: ed:
+libeling	libel: ing:
+reunited	re: unit: ed:
+uncommitted	un: committ: ed:
+spited	spit: ed:
+imaginated	imaginat: ed:
+designable	design: able:
+lists	list: s:
+spencers	spencer: s:
+linteled	lintel: ed:
+spellers	spell: er: s:
+overtake	over: take:
+orally	oral: ly:
+electors	elector: s:
+flemished	flemish: ed:
+factored	factor: ed:
+spanned	spann: ed:
+immures	immure: s:
+poised	pois: ed:
+lesbians	lesbian: s:
+descendable	descend: able:
+political	politic: al:
+spewed	spew: ed:
+flewed	flew: ed:
+reprojection	re: project: ion:
+simultaneously	simulta: neous: ly:
+computation	comput: ation:
+perception	percept: ion:
+twofold	two: fold:
+assembled	assembl: ed:
+suitable	suit: able:
+geometrical	geo: metric: al:
+framework	frame: work:
+minimizing	minim: iz: ing:
+aggressive	aggress: ive:
+decrease	de: creas: e:
+constrained	con: strain: ed:
+detection	detect: ion:
+monochromatic	mono: chrom: atic:
+allowing	allow: ing:
+mounted	mount: ed:
+quadrotor	quad: rotor:
+parameters	para: meter: s:
+counteracting	counter: act: ing:
+reconstruction	re: construct: ion:
+generating	generat: ing:
+proposing	pro: pos: ing:
+estimation	estimat: ion:
+controllers	control: ler: s:
+derivatives	deriv: ative: s:
+beginning	begin: n: ing:
+normalization	normal: iz: ation:
+candidates	candidat: e: s:
+differentially	differ: ential: ly:
+chainsaw	chain: saw:
+flashback	flash: back:
+anyway	any: way:
+cleverness	clever: ness:
+discharged	dis: charg: ed:
+unworthy	un: worth: y:
+intakes	in: take: s:
+Sunday	Sun: day:
+physical	physic: al:
+cannot	can: not:
+stereophonic	stereo: phon: ic:
+eatable	eat: able:
+orthographic	ortho: graph: ic:
+neural	neur: al:
+wizardry	wizard: ry:
+refunds	re: fund: s:
+challenging	challeng: ing:
+integrable	integr: able:
+unimpressed	un: impress: ed:
+charming	charm: ing:
+chairman	chair: man:
+sharpshooters	sharp: shoot: er: s:
+network	net: work:
+unwillingness	un: will: ing: ness:
+anyhow	any: how:
+isomorphic	iso: morph: ic:
+vocations	voc: ation: s:
+forecasting	fore: cast: ing:
+bloody	blood: y:
+unbounded	un: bound: ed:
+topology	topo: logy:
+without	with: out:
+magical	magic: al:
+eigenvectors	eigen: vector: s:
+eigendecomposition	eigen: de: compos: ition:
+sunlight	sun: light:
+burning	burn: ing:
+intimidation	intimidat: ion:
+butcher	butch: er:
+values	value: s:
+frogs	frog: s:
+serendipity	serendip: ity:
+goat	goat:
+crawling	crawl: ing:
+superpower	super: power:
+lighter	light: er:
+student	stud: ent:
+trays	tray: s:
+selfishness	self: ish: ness:
+freestyles	free: style: s:
+traces	trace: s:
+freezer	freez: er:
+preacher	preach: er:
+selection	select: ion:
+dawn	dawn:
+fireman	fire: man:
+potter	pot: t: er:
+monks	monk: s:
+shadows	shadow: s:
+doorway	door: way:
+vaporiser	vapor: is: er:
+widow	widow:
+pillows	pillow: s:
+inheritance	inherit: ance:
+history	history:
+teetotaller	teetotal: l: er:
+variables	var: iable: s:
+dolphine's	dolphine: 's:
+brutality	brutal: ity:
+walker	walk: er:
+kissed	kiss: ed:
+decompose	de: compose:
+higher	high: er:
+lowest	low: est:
+spending	spend: ing:
+manufacturer's	manu: factur: er: 's:
+snakes	snake: s:
+cloudy	cloud: y:
+uncomfortable	un: comfort: able:
+discoverer's	discover: er: 's:
+whatever	what: ever:
+footnote	foot: note:
+textbook	text: book:
+against	against:
+metaphorically	metaphor: ical: ly:
+precision	precis: ion:
+roommate	room: mate:
+connections	connect: ion: s:
+completeness	complete: ness:
+flashed	flash: ed:
+internationality	inter: nation: al: ity:
+instructor's	instruct: or: 's:
+assignment	assign: ment:
+investments	invest: ment: s:
+swimming	swim: ming:
+global	glob: al:
+outside	out: side:
+carelessness	care: less: ness:
+nonperishable	non: perish: able:
+achievement	achieve: ment:
+marginalize	margin: al: ize:
+darken	dark: en:
+premodernism	pre: modern: ism:
+motherhood	mother: hood:
+lawmakers	law: mak: er: s:
+louder	loud: er:
+unbearable	un: bear: able:
+difficulties	difficult: i: es:
+bodyguards	body: guard: s:
+recreation	re: creat: ion:
+uncivilized	un: civil: iz: ed:
+protection	protect: ion:
+manager	manag: er:
+reignited	re: ignit: ed:
+sheep	sheep:
+declassify	de: class: ify:
+enclosure	en: clos: ure:
+globalization	glob: al: iz: ation:
+threaten	threat: en:
+increasingly	increas: ing: ly:
+famously	famous: ly:
+clueless	clue: less:
+undecipherable	un: de: cipher: able:
+doughnuts	dough: nut: s:
+unprepared	un: prepar: ed:
+unfearful	un: fear: ful:
+hemispherical	hemi: spher: ical:
+alternatively	alternat: ive: ly:
+mentally	mental: ly:
+unlikely	un: like: ly:
+reestablishment	re: establish: ment:
+protoplasmic	proto: plasm: ic:
+courageously	courage: ous: ly:
+unlawful	un: law: ful:
+preexisting	pre: exist: ing:
+coworkers	co: work: er: s:
+boundary	bound: ary:
+reactivate	re: activ: ate:
+advertisement	advert: ise: ment:
+adjustability	adjust: abil: ity:
+dehumanize	de: human: ize:
+discernment	discern: ment:
+reachability	reach: abil: ity:
+gracefully	grace: ful: ly:
+outstanding	out: stand: ing:
+capitalist	capital: ist:
+gravitational	gravit: ation: al:
+forever	for: ever:
+unforgiving	un: forgiv: ing:
+acidify	acid: ify:
+cleaner	clean: er:
+misspelling	mis: spell: ing:
+misleading	mis: lead: ing:
+demagnetize	de: magnet: ize:
+brotherhood	brother: hood:
+disappeared	dis: appear: ed:
+homesickness	home: sick: ness:
+whichever	which: ever:
+monogamy	mono: gamy:
+friendships	friend: ship: s:
+abnormal	ab: norm: al:
+exactly	exact: ly:
+frequently	frequent: ly:
+polygamy	poly: gamy:
+madness	mad: ness:
+ghost	ghost:
+selfish	self: ish:
+ambidexterous	ambi: dexter: ous:
+drug	drug:
+talkactive	talk: active:
+mental	ment: al:
+gap	gap:
+dentist	dent: ist:
+rules	rule: s:
+pointless	point: less:
+hands	hand: s:
+guilty	guilt: y:
+whenever	when: ever:
+adverb	ad: verb:
+face	face:
+prefer	pre: fer:
+cheater	cheat: er:
+thoughtful	thought: ful:
+probably	probab: ly:
+globally	global: ly:
+grasping	grasp: ing:
+briefly	brief: ly:
+fistful	fist: ful:
+checked	check: ed:
+undecidable	un: decid: able:
+looked	look: ed:
+humanoid	human: oid:
+disattention	dis: attention:
+loving	lov: ing:
+goes	go: es:
+uncommon	un: common:
+darkness	dark: ness:
+uncertainty	un: certain: ty:
+keeper	keep: er:
+phones	phone: s:
+nearly	near: ly:
+lovely	love: ly:
+talking	talk: ing:
+unimaginable	un: imagin: able:
+deeply	deep: ly:
+unrepeatable	un: repeat: able:
+asocial	a: social:
+gently	gent: ly:
+reader	read: er:
+internationalization	inter: nation: al: iza: tion:
+hello	hello:
+watched	watch: ed:
+leaders	lead: er: s:
+boys	boy: s:
+focusing	focus: ing:
+me	me:
+inactive	in: act: ive:
+cultural	cultur: al:
+dislike	dis: like:
+boxes	box: es:
+additional	add: ition: al:
+seeing	see: ing:
+inflectional	inflect: ion: al:
+chronicles	chronicle: s:
+lions	lion: s:
+director	direct: or:
+carefully	care: ful: ly:
+popularity	popular: ity:
+going	go: ing:
+disagreed	dis: agree: d:
+executives	execut: ive: s:
+pieces	piece: s:
+nominations	nominat: ion: s:
+inside	in: side:
+regarded	regard: ed:
+active	act: ive:
+directed	direct: ed:
+trying	try: ing:
+dreamless	dream: less:
+provident	provid: ent:
+missing	miss: ing:
+disbelieves	dis: believe: s:
+purely	pure: ly:
+escalators	escalat: or: s:
+abnormally	ab: normal: ly:
+cuteness	cute: ness:
+breakable	break: able:
+deletes	delete: s:
+injustice	in: justice:
+empowerment	em: power: ment:
+hangman	hang: man:
+abandoned	abandon: ed:
+commands	command: s:
+changeful	change: ful:
+murderers	murder: er: s:
+twisted	twist: ed:
+affordable	afford: able:
+deathly	death: ly:
+biblical	bibl: ical:
+heaviest	heav: i: est:
+amusing	amus: ing:
+blinking	blink: ing:
+contamination	contamin: ation:
+combatant	combat: ant:
+coeditors	co: edit: or: s:
+collectedness	collect: ed: ness:
+ceremonial	ceremoni: al:
+defection	defect: ion:
+overpay	over: pay:
+woodenly	wood: en: ly:
+holiday	holi: day:
+abusive	ab: us: ive:
+astrograph	astro: graph:
+unposted	un: post: ed:
+taxable	tax: able:
+misadapt	mis: adapt:
+fillable	fill: able:
+awareness	aware: ness:
+authorless	author: less:
+rebuilded	re: build: ed:
+floatingly	float: ing: ly:
+buildable	build: able:
+reobserved	re: observ: ed:
+requital	re: quit: al:
+futurism	futur: ism:
+underlight	under: light:
+unpasting	un: past: ing:
+recompile	re: compil: e:
+unpercussed	un: percuss: ed:
+bribery	bribe: ry:
+seventeen	seven: teen:
+conception	concept: ion:
+reballoted	re: ballot: ed:
+generalized	general: ized:
+copyright	copy: right:
+oceanic	ocean: ic:
+unboarded	un: board: ed:
+offerer	off: er: er:
+upbeat	up: beat:
+bounty	bount: y:
+welcome	wel: come:
+pyramid	pyram: id:
+overlords	over: lord: s:
+improvising	im: provis: ing:
+smorgasbord	smor: gas: bord:
+jungle	jungle:
+freckle	freckle:
+palette	palette:
+horizontal	horizon: tal:
+encompasses	en: compass: es:
+frantic	frantic:
+googling	googl: ing:
+spaghetti	spagh: etti:
+unicorn	uni: corn:
+pitching	pitch: ing:
+freedom	free: dom:
+hesitation	hesitat: ion:
+radical	radic: al:
+bohemian	bohemia: n:
+contingency	con: tingen: cy:
+conundrum	conundrum:
+aliens	alien: s:
+panamorphic	pana: morph: ic:
+procrustean	pro: crust: ean:
+plywood	ply: wood:
+dough	dough:
+saturation	satur: at: ion:
+ebb	ebb:
+chairs	chair: s:
+online	on: line:
+grandchildren	grand: children:
+realistically	real: istic: ally:
+fisherman	fish: er: man:
+plumb	plumb:
+references	refer: ence: s:
+milk	milk:
+firefighters	fire: fight: er: s:
+unreliable	un: rel: i: able:
+unreachables	un: reach: able: s:
+technically	tech: nic: ally:
+under	under:
+morphology	morph: olo: gy:
+plumbers	plumb: er: s:
+table	table:
+butter	butter:
+fishermen	fish: er: men:
+violin	violin:
+driver	driv: er:
+jeopardize	jeopard: ize:
+notebooks	note: book: s:
+aid	aid:
+reliable	rel: i: able:
+realistic	real: istic:
+band	band:
+fires	fire: s:
+unreachable	un: reach: able:
+unbreakable	un: break: able:
+discovering	discover: ing:
+watchmakers	watch: maker: s:
+existential	exist: ential:
+pitfalls	pit: fall: s:
+reckoning	reckon: ing:
+selfdriving	self: driv: ing:
+settlement	settle: ment:
+confidentiality	confidential: ity:
+editorials	edit: orial: s:
+commitment	commit: ment:
+windmills	wind: mill: s:
+earthbound	earth: bound:
+shareholders	share: holder: s:
+pornography	porno: graphy:
+harnessing	harness: ing:
+successfulness	success: ful: ness:
+trainwreck	train: wreck:
+harassment	harass: ment:
+accountability	account: abil: ity:
+outrageous	outrage: ous:
+breakthrough	break: through:
+highlights	high: light: s:
+ridehailing	ride: hail: ing:
+incompetence	in: competence:
+summertime	summer: time:
+justify	just: ify:
+unemployed	un: employ: ed:
+prefix	pre: fix:
+husbands	husband: s:
+governmental	govern: ment: al:
+contemplation	contemplat: ion:
+desirability	desir: abil: ity:
+environmentally	environ: ment: al: ly:
+unfair	un: fair:
+boy	boy:
+crying	cry: ing:
+thumbtack	thumb: tack:
+ugly	ugly:
+bicycle	bi: cycle:
+milder	mild: er:
+grandmothers	grand: mother: s:
+disobey	dis: obey:
+island	island:
+truth	tru: th:
+trusted	trust: ed:
+fragility	fragil: ity:
+payment	pay: ment:
+disinfectant	dis: infect: ant:
+linguistic	linguist: ic:
+barefoot	bare: foot:
+deform	de: form:
+hopefully	hope: ful: ly:
+crinckly	crinckl: y:
+excellent	excell: ent:
+fearlessness	fear: less: ness:
+spelling	spell: ing:
+overwinter	over: winter:
+blandishment	bland: ish: ment:
+embezzlement	embezzle: ment:
+meaning	mean: ing:
+background	back: ground:
+radioimmunoelectrophoresis	radio: immuno: electro: phoresis:
+reproduce	re: produce:
+abnegation	ab: negation:
+misinterpretation	mis: interpret: ation:
+formed	form: ed:
+understructure	under: structure:
+pneumonoultramicroscopicsilicovolcanoconiosis	pneumono: ultra: micro: scopic: silico: volcano: coniosis:
+fundamental	fundament: al:
+lactovegetarian	lacto: vegetarian:
+radioactive	radio: active:
+sadness	sad: ness:
+groundwork	ground: work:
+occasional	occasion: al:
+unlimited	un: limit: ed:
+antidisestablishmentarianism	anti: dis: establish: ment: arian: ism:
+professional	profession: al:
+accounting	account: ing:
+newspaper	news: paper:
+undercommercialization	under: commercial: ization:
+nonvirtuousness	non: virtuous: ness:
+electroencephalograph	electro: encephalo: graph:
+far	far:
+forgetful	forget: ful:
+juice	juice:
+trick	trick:
+choke	choke:
+nutritious	nutrit: ious:
+carriage	carr: iage:
+uttermost	utter: most:
+befitting	be: fitt: ing:
+horse	horse:
+hellish	hell: ish:
+chalk	chalk:
+functional	function: al:
+book	book:
+succeed	succe: ed:
+awful	aw: ful:
+offer	off: er:
+wash	wash:
+majestic	majest: ic:
+appreciate	appreciate:
+wandering	wander: ing:
+note	note:
+applaud	applaud:
+knowing	know: ing:
+absorbed	absorb: ed:
+stamp	stamp:
+grumpy	grump: y:
+hate	hate:
+engine	engine:
+perfect	perfect:
+unequaled	un: equal: ed:
+file	file:
+puffy	puff: y:
+weather	weather:
+argue	argue:
+remarkable	re: mark: able:
+afterthought	after: thought:
+blind	blind:
+incompetent	in: compet: ent:
+handle	hand: le:
+beds	bed: s:
+legal	legal:
+cakes	cake: s:
+grandfather	grand: father:
+spark	spark:
+combative	combat: ive:
+last	last:
+adhesive	adhes: ive:
+circuits	circuit: s:
+consciousness	conscious: ness:
+biolinguistics	bio: linguist: ic: s:
+urges	urge: s:
+behaviourism	behaviour: ism:
+think-tank	think: -: tank:
+patron	patron:
+cognitive	cognit: ive:
+mechanism	mechan: ism:
+transformational	transform: ation: al:
+inbred	in: bred:
+U.S.-based	U.S.: -: base: d:
+elementwise	element: wise:
+exposed	expose: d:
+corporate	corporate:
+minimalism	minimal: ism:
+metricated	metric: ate: d:
+liveliness	live: li: ness:
+propaganda	propaganda:
+unlike	un: like:
+inborn	in: born:
+dominant	domin: ant:
+anti-nativist	anti: -: nativ: ist:
+empiricism	empiric: ism:
+syntactician	syntactic: ian:
+antihistamine	anti: hist: amine:
+injection	in: ject: ion:
+pathological	path: olog: ic: al:
+abortion	abort: ion:
+autism	aut: ism:
+thermometer	therm: o: meter:
+headache	head: ache:
+spiritually	spirit: ual: ly:
+secretions	secre: tion: s:
+prescription	pre: script: ion:
+depression	de: press: ion:
+problematic	problem: atic:
+treatments	treat: ment: s:
+contagious	contag: i: ous:
+mixture	mix: t: ure:
+operation	operat: ion:
+vitamine	vit: amine:
+accumulation	accumula: tion:
+chronical	chron: ic: al:
+lymphatic	lymph: atic:
+painful	pain: ful:
+painkillers	pain: kill: er: s:
+prescribe	pre: scrib: e:
+decongestant	de: congest: ant:
+hypertension	hyper: tens: ion:
+failure	fail: ure:
+medication	medic: at: ion:
+albinism	albin: ism:
+medically	medic: al: ly:
+unsafe	un: safe:
+employment	employ: ment:
+boring	bor: ing:
+everyone	every: one:
+softness	soft: ness:
+wildly	wild: ly:
+bored	bor: ed:
+somebody	some: body:
+shipment	ship: ment:
+takeoff	take: off:
+manageress	manag: er: ess:
+partnership	partner: ship:
+smallest	small: est:
+arthroplasty	arthro: plast: y:
+stiffness	stiff: ness:
+hopeful	hope: ful:
+useless	use: less:
+salesmen	sale: s: men:
+masterchef	master: chef:
+lordship	lord: ship:
+slowly	slow: ly:
+homework	home: work:
+television	tele: vision:
+imprecise	im: precise:
+independently	in: depend: ent: ly:
+electrocardiographic	electr: o: cardi: o: graph: ic:
+gentlemen	gentle: men:
+herself	her: self:
+gastroscopy	gastr: o: scop: y:
+toothpaste	tooth: paste:
+neoplasty	neo: plast: y:
+developed	develop: ed:
+underwear	under: wear:
+contraceptive	contra: ceptive:
+president	presid: ent:
+contrary	contra: ry:
+faster	fast: er:
+snobbish	snob: b: ish:
+creative	creat: ive:
+resistance	resist: ance:
+dudes	dude: s:
+gravitate	gravit: ate:
+protector	protect: or:
+sinking	sink: ing:
+atonal	a: tonal:
+persistence	persist: ence:
+captains	captain: s:
+shouted	shout: ed:
+fusion	fus: ion:
+fellowship	fellow: ship:
+cooler	cool: er:
+committent	commit: t: ent:
+ephemeral	ephemer: al:
+stepping	step: p: ing:
+falsehood	false: hood:
+guys	guy: s:
+persistent	persist: ent:
+basement	base: ment:
+appealing	appeal: ing:
+bumping	bump: ing:
+nervous	nerv: ous:
+amoral	a: moral:
+governor	govern: or:
+importance	import: ance:
+reconsider	re: consider:
+kingdoms	king: dom: s:
+unhealthy	un: health: y:
+modernize	modern: ize:
+disengagement	dis: engage: ment:
+readings	read: ing: s:
+waiter	wait: er:
+seaward	sea: ward:
+discouraged	dis: courage: d:
+sprayable	spray: able:
+poetic	poet: ic:
+jumping	jump: ing:
+password	pass: word:
+researchers	re: search: er: s:
+sickness	sick: ness:
+resettled	re: settle: d:
+autobiography	auto: bio: graph: y:
+dedication	dedicat: ion:
+friendliness	friend: li: ness:
+holyday	holy: day:
+unacceptable	un: accept: able:
+actor	act: or:
+truthfully	tru: th: ful: ly:
+encouragement	en: courage: ment:
+mistreatment	mis: treat: ment:
+childish	child: ish:
+wastage	wast: age:
+keys	key: s:
+biannually	bi: annu: al: ly:
+studenthood	stud: ent: hood:
+engineer	engin: eer:
+previewing	pre: view: ing:
+overpowering	over: power: ing:
+degenerates	de: generate: s:
+implanted	im: plant: ed:
+malfunction	mal: function:
+embankment	em: bank: ment:
+untruthfulness	un: truth: ful: ness:
+thermodynamics	thermo: dynamics:
+formation	form: ation:
+contain	con: tain:
+synthetic	syn: thetic:
+untouchable	un: touch: able:
+shooting	shoot: ing:
+unsteadily	un: steadi: ly:
+microbiology	micro: bio: log: y:
+cooperatively	co: operat: ive: ly:
+retrospection	retro: spec: tion:
+undone	un: done:
+confusion	confus: ion:
+qualification	qualif: ic: ation:
+misidentified	mis: ident: ifi: ed:
+electricity	electric: ity:
+anticapitalistic	anti: capital: ist: ic:
+refilled	re: fill: ed:
+testify	test: ify:
+exceedingly	exceed: ing: ly:
+productivity	product: iv: ity:
+disinclination	dis: inclin: ation:
+irregularity	ir: regul: ar: ity:
+foolishness	fool: ish: ness:
+unkindness	un: kind: ness:
+philosophy	philo: soph: y:
+inadequacy	in: adequa: cy:
+electronically	electron: ic: ally:
+dislikeable	dis: like: able:
+cleanlineness	clean: line: ness:
+massiveness	massive: ness:
+blandness	bland: ness:
+healthiness	healthi: ness:
+bedroom	bed: room:
+bitterness	bitter: ness:
+craziness	crazi: ness:
+dimonsionless	dimon: sion: less:
+homeless	home: less:
+coworker	co: worker:
+promtness	promt: ness:
+rashness	rash: ness:
+shameless	shame: less:
+funniness	funni: ness:
+illness	ill: ness:
+hapless	hap: less:
+classmade	class: made:
+quickness	quick: ness:
+roundness	round: ness:
+hardworking	hard: work: ing:
+peaceful	peace: ful:
+diligent	dili: gent:
+froutful	frout: ful:
+gloominess	gloomi: ness:
+graciousness	gracious: ness:
+busyness	busy: ness:
+priceless	price: less:
+homemade	home: made:
+happyness	happy: ness:
+regiment	regi: ment:
+marker	mark: er:
+airplane	air: plane:
+forgery	forg: ery:
+randomized	random: iz: ed:
+missionary	mission: ary:
+notebook	note: book:
+robbery	robb: ery:
+endlessly	end: less: ly:
+cacophony	caco: phony:
+loophole	loop: hole:
+cheesecake	cheese: cake:
+mindless	mind: less:
+archery	arch: ery:
+devastation	devastat: ion:
+mankind	man: kind:
+cheeseburger	cheese: burger:
+slaughterhouse	slaughter: house:
+retirement	retire: ment:
+cumbersome	cumber: some:
+distribution	distribut: ion:
+usefulness	use: ful: ness:
+painless	pain: less:
+sweeten	sweet: en:
+smuggler	smuggl: er:
+lawgiver	law: giv: er:
+boredom	bore: dom:
+stealing	steal: ing:
+wireless	wire: less:
+travelling	travell: ing:
+lifeguard	life: guard:
+destruction	destruct: ion:
+argument	argu: ment:
+hog	hog:
+extortion	extort: ion:
+minority	minor: ity:
+jailbreak	jail: break:
+paperwork	paper: work:
+destructiveness	destruct: ive: ness:
+starvation	starv: ation:
+pathfinder	path: find: er:
+stepmother	step: mother:
+frontlet	front: let:
+pegs	peg: s:
+triggered	trigger: ed:
+abused	abuse: d:
+normated	normated:
+realign	re: align:
+pyrotechnical	pyro: technic: al:
+kisses	kiss: es:
+gruntled	grunt: led:
+centered	center: ed:
+megacolon	mega: colon:
+guy	guy:
+abuse	abuse:
+grainways	grain: way: s:
+extrasterile	extra: sterile:
+terrane	terrane:
+reinfusion	re: infus: ion:
+abuses	abuse: s:
+stepmotherliness	step: mother: liness:
+swallowpipe	swallow: pipe:
+telemeter	tele: meter:
+suboval	sub: oval:
+pyre	pyre:
+cedilla	cedilla:
+semideaf	semi: deaf:
+peg	peg:
+extropical	extropical:
+owlet	ow: let:
+confidential	confident: ial:
+pronounce	pro: nounce:
+consultant	consult: ant:
+fluids	fluid: s:
+nanometer	nano: meter:
+uncirculating	un: circulat: ing:
+overpopulating	over: populat: ing:
+macroclimate	macro: climate:
+sated	sat: ed:
+reassigning	re: assign: ing:
+panical	panic: al:
+propagators	propagat: or: s:
+machinist	machin: ist:
+stopping	stopp: ing:
+paranoia	para: noia:
+nordic	nord: ic:
+portlight	port: light:
+annotate	an: not: ate:
+underconsumption	under: consum: ption:
+introvolution	intro: volution:
+uncover	un: cover:
+uniserial	uni: serial:
+dysfunction	dys: function:
+slowness	slow: ness:
+nullify	null: ify:
+residuary	residu: ary:
+menopause	meno: pause:
+multisensory	multi: sensor: y:
+developments	develop: ment: s:
+readjusted	re: adjust: ed:
+unrelated	un: relat: ed:
+foretasting	fore: tast: ing:
+designing	design: ing:
+affected	affect: ed:
+natural	natur: al:
+activities	activ: it: ies:
+relaxed	relax: ed:
+backward	back: ward:
+rotator	rotat: or:
+muscles	muscle: s:
+removed	re: mov: ed:
+senator	senat: or:
+buses	bus: es:
+resisting	resist: ing:
+downward	down: ward:
+parliament	parlia: ment:
+preoccipital	pre: occipit: al:
+multitude	multi: tude:
+commonly	common: ly:
+unbeatable	un: beat: able:
+carrying	carry: ing:
+mechanically	mechan: ic: al: ly:
+insignificant	in: signific: ant:
+connecting	connect: ing:
+audience	audi: ence:
+federations	feder: ation: s:
+leadership	lead: er: ship:
+overcrowding	over: crowd: ing:
+conservatively	conservat: ive: ly:
+heavens	heaven: s:
+etymology	etymo: logy:
+woman	woman:
+address	address:
+foreman	fore: man:
+parsing	pars: ing:
+pigeonhole	pigeon: hole:
+lemma	lemma:
+Quinean	Quine: an:
+posted	post: ed:
+summed	sum: med:
+dilemma	dilemma:
+pipeline	pipe: line:
+give	give:
+power	power:
+footwear	foot: wear:
+man	man:
+tokenization	token: ization:
+folder	fold: er:
+always	always:
+quits	quit: s:
+forearm	fore: arm:
+summer	summer:
+lexicographer	lexico: graph: er:
+ongoing	on: go: ing:
+dress	dress:
+forgive	forgive:
+foreign	foreign:
+arm	arm:
+kidding	kidd: ing:
+run	run:
+recurrent	re: current:
+title	title:
+play	play:
+kids	kid: s:
+regressor	re: gress: or:
+sick	sick:
+ill	ill:
+surname	sur: name:
+long	long:
+current	current:
+short	short:
+wife	wife:
+recallment	re: call: ment:
+war	war:
+lasting	last: ing:
+kid	kid:
+cold	cold:
+colding	cold: ing:
+called	call: ed:
+mean	mean:
+calling	call: ing:
+rerun	re: run:
+seaside	sea: side:
+evaluating	e: valu: at: ing:
+catechized	catech: iz: ed:
+eyedrop	eye: drop:
+policewoman	police: woman:
+nakedness	naked: ness:
+gaslights	gas: light: s:
+illumination	illuminat: ion:
+chessman	chess: man:
+initiate	initi: ate:
+freshers	fresh: er: s:
+ziggurats'	ziggurat: s: ':
+barracuda	barracuda:
+swordfish	sword: fish:
+masseuse	mass: euse:
+liquors	liquor: s:
+revolvers'	revolv: er: s: ':
+charismatic	charismat: ic:
+discounts	dis: count: s:
+dildos	dildo: s:
+ratings	rating: s:
+pruners	prun: er: s:
+greatest	great: est:
+gazing	gaz: ing:
+woodwork	wood: work:
+excretion	excret: ion:
+physiologists'	physi: olog: ist: s: ':
+enslaves	en: slave: s:
+seahorse	sea: horse:
+inexorably	inexorab: ly:
+inconspicuous	in: conspicu: ous:
+enlightening	en: light: en: ing:
+irrational	ir: ratio: nal:
+misconduct	mis: con: duct:
+impartiality	im: partial: ity:
+diminishing	di: minish: ing:
+fraudulent	fraud: ulent:
+subterfuge	subter: fuge:
+indistinguishable	in: dis: tinguish: able:
+disadvantageous	dis: advantage: ous:
+obscurity	obscur: ity:
+demoralization	de: moraliz: ation:
+retrogression	retro: gression:
+reappearing	re: appear: ing:
+imposture	impos: ture:
+injuriously	injurious: ly:
+manifestation	mani: fest: ation:
+extermination	ex: termin: ation:
+drawback	draw: back:
+undulation	und: ulation:
+contemplate	con: template:
+inaudible	in: aud: ible:
+disproportionate	dis: proportion: ate:
+honorable	honor: able:
+plausible	plaus: ible:
+utterances	utter: ance: s:
+familiarized	familiar: iz: ed:
+unprecedented	un: precedent: ed:
+forgetfulness	forget: ful: ness:
+approximation	approxim: ation:
+occasionally	occasion: ally:
+unquestionable	un: question: able:
+pig	pig:
+tomatoes	tomato: es:
+astonishing	astonish: ing:
+hum	hum:
+potatoes	potato: es:
+song	song:
+potato	potato:
+boat	boat:
+educated	educat: ed:
+creator	creat: or:
+rush	rush:
+nerve	nerve:
+ink	ink:
+pull	pull:
+mellow	mellow:
+sidewalk	side: walk:
+divergent	diverg: ent:
+exclusive	exclus: ive:
+memorise	memor: ise:
+suit	suit:
+troubled	troubl: ed:
+numerous	numer: ous:
+noise	noise:
+rinse	rinse:
+pale	pale:
+sleet	sleet:
+curve	curve:
+knife	knife:
+noiseless	noise: less:
+ceaseless	cease: less:
+sleeping	sleep: ing:
+happiness	happi: ness:
+Hotdogs	hot: dog: s:
+barking	bark: ing:
+dreaming	dream: ing:
+books	book: s:
+disclose	dis: close:
+locked	lock: ed:
+prejudges	pre: judge: s:
+graceful	grace: ful:
+flowchart	flow: chart:
+language	lan: guage:
+dictatorial	dictator: ial:
+horses	horse: s:
+walked	walk: ed:
+beers	beer: s:
+rationalist	rational: ist:
+drumheads	drum: head: s:
+blueprint	blue: print:
+pens	pen: s:
+drivers	driv: er: s:
+Disgraceful	Dis: grace: ful:
+expressway	express: way:
+fearlessly	fear: less: ly:
+helplessness	help: less: ness:
+formerly	former: ly:
+exchanging	ex: chang: ing:
+majority	major: ity:
+historical	histor: ical:
+loyalty	loyal: ty:
+possession	possess: ion:
+meanwhile	mean: while:
+typewriter	type: writ: er:
+dismissing	dis: miss: ing:
+dangerous	danger: ous:
+grateful	grate: ful:
+occupation	occup: ation:
+collection	collect: ion:
+accountant	ac: count: ant:
+performer	perform: er:
+handwriting	hand: writ: ing:
+interested	interest: ed:
+knowledge	know: ledge:
+sunglasses	sun: glass: es:
+himself	him: self:
+everywhere	every: where:
+bibliography	biblio: graphy:
+accurate	ac: cur: ate:
+imagination	imag: ination:
+neighborhood	neighbor: hood:
+independence	in: dependen: ce:
+playthings	play: thing: s:
+weatherman	weather: man:
+celebration	celebrat: ion:
+biographical	bio: graph: ic: al:
+uptight	up: tight:
+tighten	tight: en:
+stapler	stapl: er:
+congregated	con: gregate: d:
+underground	under: ground:
+unknow	un: know:
+undesiderable	un: desider: able:
+meaningful	meaning: ful:
+enforcement	en: force: ment:
+encoded	en: code: d:
+tightness	tight: ness:
+preprocessing	pre: process: ing:
+impraticable	im: pratic: able:
+staying	stay: ing:
+waiting	wait: ing:
+refactoring	re: factor: ing:
+assessment	assess: ment:
+undeniable	un: deni: able:
+deliverance	deliver: ance:
+unconstitutional	un: constitution: al:
+assertion	asser: tion:
+colorful	color: ful:
+quickly	quick: ly:
+bloodline	blood: line:
+unfashionable	un: fashion: able:
+unreasonable	un: reason: able:
+unpopular	un: popular:
+running	runn: ing:
+boosted	boost: ed:
+redeployment	re: deploy: ment:
+overvalued	over: valu: ed:
+antihero	anti: hero:
+landowner	land: own: er:
+optimum	optim: um:
+drained	drain: ed:
+golden	gold: en:
+specification	specif: ic: ation:
+zooming	zoom: ing:
+youngster	young: ster:
+foolproof	fool: proof:
+orange	orange:
+scandalize	scandal: ize:
+bookbinder	book: bind: er:
+topographical	topo: graph: ic: al:
+headphones	head: phone: s:
+queenside	queen: side:
+goodness	good: ness:
+unattainable	un: attain: able:
+beach	beach:
+stuffing	stuff: ing:
+unannounced	un: announc: ed:
+core	core:
+unborn	un: born:
+wordplay	word: play:
+irrefutable	ir: refut: able:
+charge	charge:
+scalding	scald: ing:
+anybody	any: body:
+white	white:
+bakers	bak: er: s:
+undertaking	under: tak: ing:
+presentiments	pre: sentiment: s:
+overcooked	over: cook: ed:
+underrepresented	under: represent: ed:
+miscalculates	mis: calculate: s:
+xenotransplantations	xeno: trans: plantation: s:
+wearing	wear: ing:
+abdicated	abdicate: d:
+unstrapped	un: strapp: ed:
+wednesdays	wednesday: s:
+wounded	wound: ed:
+whitewashing	white: wash: ing:
+zeroing	zero: ing:
+zapping	zap: ping:
+yearlings	year: ling: s:
+overcrowded	over: crowd: ed:
+zigzagged	zig: zag: ged:
+underwriter	under: write: r:
+abjures	abjure: s:
+overdevelop	over: develop:
+zoology	zoo: logy:
+wined	win: ed:
+welcoming	welcom: ing:
+understatement	under: state: ment:
+unpredictabilities	un: predict: abilit: ies:
+withholded	with: hold: ed:
+abjected	abject: ed:
+yanking	yank: ing:
+outstretch	out: stretch:
+undervalued	under: value: d:
+interchangeabilities	inter: change: abilit: ies:
+roadway	road: way:
+academic	academ: ic:
+smaller	small: er:
+rainy	rain: y:
+unconventional	un: convention: al:
+waterfall	water: fall:
+scientific	scient: ific:
+prehistoric	pre: histor: ic:
+pony	pony:
+friendly	friend: ly:
+bidirection	bi: direct: ion:
+musician	music: ian:
+pets	pet: s:
+election	elect: ion:
+speaking	speak: ing:
+peacefull	peace: full:
+guitarist	guitar: ist:
+sexy	sex: y:
+trainer	train: er:
+doors	door: s:
+win	win:
+readable	read: able:
+boyfriends	boy: friend: s:
+sons	son: s:
+sunrise	sun: rise:
+lake	lake:
+commander	command: er:
+showman	show: man:
+housewife	house: wife:
+wind	wind:
+promotional	promot: ion: al:
+neutron	neutr: on:
+positron	posi: tron:
+worshipping	wor: ship: ping:
+pions	pi: on: s:
+quark	quark:
+cyclotron	cyclo: tron:
+papermaking	paper: mak: ing:
+pyrotechnic	pyro: techn: ic:
+neutrino	neutr: ino:
+electron	electr: on:
+pikeman	pike: man:
+gluon	glu: on:
+piezoelectric	piezo: electr: ic:
+hydrodynamics	hydro: dynam: ics:
+muon	mu: on:
+swordman	sword: man:
+exoplanet	exo: planet:
+orbital	orbit: al:
+nuclear	nucle: ar:
+slavery	slav: ery:
+papyrus	papyrus:
+cataphract	cata: phract:
+chartaceous	charta: ceous:
+overwhelming	over: whelm: ing:
+bowman	bow: man:
+antiproton	anti: prot: on:
+hadron	hadr: on:
+proton	prot: on:
+charta	charta:
+homepage	home: page:
+nuthouse	nut: house:
+crucially	cruc: ial: ly:
+infallible	in: fallible:
+typed	typ: ed:
+watchdog	watch: dog:
+vodka	vodka:
+unctuousness'	unctu: ous: ness: ':
+autobiographically	auto: bio: graph: ic: ally:
+alum	alum:
+truncate	truncate:
+mouthwashes	mouth: wash: es:
+cubic	cub: ic:
+corns	corn: s:
+sees	see: s:
+goods	good: s:
+bookcase	book: case:
+hag	hag:
+marrows	marrow: s:
+spectres	spectre: s:
+apathetically	a: path: etic: ally:
+cargo	cargo:
+dozed	doze: d:
+villain	villain:
+impressed	im: press: ed:
+silk	silk:
+twirls	twirl: s:
+accelerate	accelerate:
+cause	cause:
+wall	wall:
+likeable	like: able:
+desires	desire: s:
+succeeding	succeed: ing:
+recounts	re: count: s:
+poor	poor:
+emphasis	emphasis:
+hourly	hour: ly:
+quickens	quick: en: s:
+zoom	zoom:
+include	include:
+postscript	post: script:
+sadly	sad: ly:
+achieved	achiev: ed:
+calendar	calendar:
+bold	bold:
+highest	high: est:
+jaws	jaw: s:
+importing	import: ing:
+request	request:
+invested	invest: ed:
+undertakings	under: tak: ing: s:
+nose	nose:
+performance	perform: ance:
+violent	violent:
+these	these:
+priests	priest: s:
+several	several:
+tenderness	tend: er: ness:
+hardness	hard: ness:
+impossibilities	im: possib: ilit: ies:
+avoided	avoid: ed:
+price	price:
+regrouping	re: group: ing:
+ladylike	lady: like:
+behead	be: head:
+elements	element: s:
+gentleman	gentle: man:
+impossible	im: possible:
+inputs	in: put: s:
+components	component: s:
+suddenly	sudden: ly:
+trial	tri: al:
+stupidity	stupid: ity:
+goodbye	good: bye:
+prepay	pre: pay:
+retroactive	re: tro: active:
+another	an: other:
+classroom	class: room:
+purposeful	purpose: ful:
+deforms	de: form: s:
+blindness	blind: ness:
+redness	red: ness:
+certainly	certain: ly:
+depose	de: pose:
+smarten	smart: en:
+unpresentable	un: present: able:
+befriended	be: friend: ed:
+repackage	re: pack: age:
+taller	tall: er:
+calmly	calm: ly:
+within	with: in:

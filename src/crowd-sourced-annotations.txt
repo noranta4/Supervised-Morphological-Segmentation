@@ -1,0 +1,1704 @@
+hopeless	hope	less
+equality	equal	ity
+falling	fall	ing
+fortitude	forti	tude
+played	play	ed
+girls	girl	s
+multithreading	multi	thread	ing
+oven	oven
+dishonored	dis	honor	ed
+stars	star	s
+statement	state	ment
+specialist	special	ist
+waterproof	water	proof
+languages	language	s
+recall	re	call
+building	build	ing
+overfitting	over	fitt	ing
+reasonable	reason	able
+glasses	glass	es
+teacher	teach	er
+brilliant	brill	i	ant
+balls	ball	s
+crawler	crawl	er
+blackboards	black	board	s
+misclassify	mis	class	ify
+painting	paint	ing
+coding	cod	ing
+processing	process	ing
+fishes	fish	es
+leaving	leav	ing
+government	govern	ment
+nevertheless	never	the	less
+qualify	qualif	y
+endangered	en	danger	ed
+highway	high	way
+harmless	harm	less
+eyebrows	eye	brow	s
+ecosystem	eco	system
+infrequently	in	frequent	ly
+representative	re	present	ative
+loneliness	lonel	iness
+sunset	sun	set
+measurement	measure	ment
+bankrupcy	bank	rupcy
+themselves	them	sel	ves
+effectiveness	effect	ive	ness
+quote	quot	e
+healthy	health	y
+intolerable	in	tolera	ble
+searching	search	ing
+upstream	up	stream
+beforehand	before	hand
+afterhours	after	hour	s
+impatience	im	patience
+earthquakes	earth	quake	s
+accompanying	ac	company	ing
+biodiversity	bio	divers	ity
+disappointment	dis	appoint	ment
+clothing	cloth	ing
+godspeed	god	speed
+greatness	great	ness
+submit	sub	mit
+asynchronized	a	syn	chron	ize	d
+laziness	lazi	ness
+namely	name	ly
+doubts	doubt	s
+lust	lust
+stargazing	star	gaz	ing
+dishes	dish	es
+commercial	commerci	al
+soaking	soak	ing
+circumnavigate	circum	navigate
+doable	do	able
+shopping	shopp	ing
+entanglement	entangle	ment
+introversion	intro	version
+separation	separ	ation
+sparsity	spars	ity
+tingling	tingl	ing
+multiset	multi	set
+torque	torque
+sunny	sunn	y
+sparse	sparse
+neverending	never	end	ing
+printable	print	able
+relentlessness	relent	less	ness
+ambitious	ambit	ious
+edible	ed	ible
+misled	mis	led
+alpha	alpha
+agon	agon
+meaningless	mean	ing	less
+morphallaxis	morph	allax	is
+alma	alma
+seller	sell	er
+undo	un	do
+disagreement	dis	agree	ment
+brightem	bright	em
+allele	allel	e
+alphabet	alpha	bet
+icecream	ice	cream
+cranberry	cran	berry
+able	able
+plays	play	s
+raspberry	rasp	berry
+allegory	all	ego	ry
+happier	happi	er
+cheap	cheap
+cheaper	cheap	er
+cheaply	cheap	ly
+allelomorph	allel	o	morph
+buyers	buy	er	s
+unable	un	able
+agonize	agon	ize
+happiest	happi	est
+friendship	friend	ship
+agony	agon	y
+sleeper	sleep	er
+foreshadow	fore	shadow
+violinist	violin	ist
+painter	paint	er
+semiconductor	semi	conduct	or
+misconception	mis	concept	ion
+reform	re	form
+pentagram	penta	gram
+indigestion	in	digest	ion
+householders	house	hold	er	s
+underscore	under	score
+rivalry	rival	ry
+bestir	be	stir
+discoverable	dis	cover	able
+incredible	in	cred	ible
+stylist	styl	ist
+impatiently	im	patient	ly
+motivate	motiv	ate
+nationhood	nation	hood
+deployment	deploy	ment
+cowardly	coward	ly
+employee	employ	ee
+enjoyment	enjoy	ment
+legalize	legal	ize
+disapproval	dis	approv	al
+reachable	reach	able
+duckling	duck	ling
+playful	play	ful
+fashionable	fashion	able
+elevator	elevat	or
+reference	refer	ence
+notable	not	able
+telescope	tele	scope
+dancing	danc	ing
+antiracism	anti	rac	ism
+payments	pay	ment	s
+transcontinental	trans	continent	al
+best	best
+press	press
+companionship	companion	ship
+rewind	re	wind
+illogical	il	logic	al
+triangles	tri	angle	s
+prepare	pre	pare
+benefit	bene	fit
+intraverbal	intra	verb	al
+pleasure	pleas	ure
+actions	act	ion	s
+mountaineer	mountain	eer
+fullback	full	back
+fields	field	s
+corner	corner
+midfielders	mid	field	er	s
+inject	in	ject
+mistreat	mis	treat
+hardest	hard	est
+alligators	alligator	s
+overdeveloped	over	develop	ed
+midnight	mid	night
+granary	gran	ary
+kinder	kind	er
+embark	em	bark
+solitude	soli	tude
+smartphone	smart	phone
+striker	strik	er
+shiny	shin	y
+disrespectful	dis	respect	ful
+counterclockwise	counter	clock	wise
+exceptional	ex	cept	ion	al
+return	re	turn
+dislocation	dis	loca	tion
+biped	bi	ped
+mortal	mort	al
+childhood	child	hood
+mutant	mut	ant
+multicolored	multi	color	ed
+dehydration	de	hydr	at	ion
+trained	train	ed
+finder	find	er
+shaped	shap	ed
+legality	legal	ity
+journals	journal	s
+setup	set	up
+mountable	mount	able
+focused	focus	ed
+lettered	letter	ed
+tractable	tract	able
+mouses	mouse	s
+eated	eat	ed
+moralist	moral	ist
+microphone	micro	phone
+serving	serv	ing
+leaped	leap	ed
+shearer	shear	er
+seadog	sea	dog
+lemures	lemure	s
+shafts	shaft	s
+later	lat	er
+traded	trad	ed
+tested	test	ed
+learning	learn	ing
+trailer	trail	er
+tracked	track	ed
+unmount	un	mount
+moulded	mould	ed
+leader	lead	er
+sexist	sex	ist
+blender	blend	er
+queens	queen	s
+honey	honey
+names	name	s
+dog	dog
+cat	cat
+cars	car	s
+blending	blend	ing
+rabbit	rabbit
+blended	blend	ed
+followed	follow	ed
+bended	bend	ed
+tastes	taste	s
+king	king
+queen	queen
+taste	taste
+follow	follow
+tasting	tast	ing
+rabbits	rabbit	s
+blend	blend
+follower	follow	er
+bender	bend	er
+car	car
+tasted	tast	ed
+bend	bend
+named	nam	ed
+kings	king	s
+dogs	dog	s
+name	name
+cats	cat	s
+beautiful	beauti	ful
+snowboarder	snow	board	er
+kneepads	knee	pad	s
+basketball	basket	ball
+baseball	base	ball
+backboard	back	board
+cardiovascular	cardio	vascul	ar
+competitor	compet	itor
+snorkeling	snorke	ling
+goalkeeper	goal	keep	er
+bodybuilders	body	build	er	s
+unicyclist	uni	cycl	ist
+teammate	team	mate
+backhand	back	hand
+curling	curl	ing
+championship	champion	ship
+equipment	equip	ment
+canoeing	canoe	ing
+deadlifting	dead	lift	ing
+surfer	surf	er
+movement	move	ment
+uniform	uni	form
+boxer	box	er
+weightlifting	weight	lift	ing
+armlock	arm	lock
+quarterback	quart	er	back
+footballers	foot	ball	er	s
+scoreboard	score	board
+wrestling	wrestl	ing
+mouthguard	mouth	guard
+doubleheader	double	head	er
+geography	geo	graph	y
+irresistible	ir	resist	ible
+calligraphy	calli	graph	y
+misinterpret	mis	interpret
+despicable	despic	able
+qualifier	qualifi	er
+parts	part	s
+developer	develop	er
+speechless	speech	less
+reuse	re	use
+encounter	en	counter
+psychology	psycho	logy
+faithfully	faith	ful	ly
+eagerly	eager	ly
+unqualified	un	qualifi	ed
+underachieving	under	achiev	ing
+underestimated	under	estimat	ed
+developing	develop	ing
+deactivate	de	activ	ate
+keyboards	key	board	s
+series	serie	s
+encountered	en	counter	ed
+anonymous	anonym	ous
+management	manage	ment
+keyboard	key	board
+faithful	faith	ful
+misunderstanding	mis	understand	ing
+despotic	despot	ic
+kindness	kind	ness
+spinelessness	spine	less	ness
+qualified	qualifi	ed
+development	develop	ment
+cutting	cutt	ing
+enlarge	en	large
+radiowaves	radio	wave	s
+disinfected	dis	infect	ed
+bears	bear	s
+unmotivated	un	motivat	ed
+fallen	fall	en
+slanting	slant	ing
+granddaughters	grand	daughter	s
+theatre	theatre
+politics	politic	s
+ability	abil	ity
+footprints	foot	print	s
+tactician	tactic	ian
+stationary	station	ary
+watermark	water	mark
+killed	kill	ed
+treating	treat	ing
+employed	employ	ed
+unrepeated	un	repeat	ed
+girlfriend	girl	friend
+national	nation	al
+destroyer	destroy	er
+canceled	cancel	ed
+houses	house	s
+reunion	re	union
+chewing	chew	ing
+laborers	labor	er	s
+recruited	recruit	ed
+finalized	final	ized
+leveller	level	ler
+overlight	over	light
+invaluable	in	valu	able
+cultivation	cultiv	ation
+unbiographical	un	bio	graphic	al
+unequal	un	equal
+manpower	man	power
+curiously	curious	ly
+emptier	empt	ier
+honestly	honest	ly
+waterhouse	water	house
+imagined	imagin	ed
+epsilon	epsilon
+rewater	re	water
+acetation	acet	ation
+colorable	color	able
+workability	work	abil	ity
+gravitation	gravit	ation
+incidental	incident	al
+campuses	camp	us	es
+reincarnation	re	in	carn	ation
+circuiter	circ	uit	er
+walkover	walk	over
+singable	sing	able
+retaker	re	tak	er
+implanter	im	plant	er
+nobleman	noble	man
+harmonic	harmon	ic
+easterner	east	ern	er
+pocketable	pocket	able
+poems	poem	s
+tidying	tidy	ing
+fleshed	flesh	ed
+libeling	libel	ing
+reunited	re	unit	ed
+uncommitted	un	committ	ed
+spited	spit	ed
+imaginated	imaginat	ed
+designable	design	able
+lists	list	s
+spencers	spencer	s
+linteled	lintel	ed
+spellers	spell	er	s
+overtake	over	take
+orally	oral	ly
+electors	elector	s
+flemished	flemish	ed
+factored	factor	ed
+spanned	spann	ed
+immures	immure	s
+poised	pois	ed
+lesbians	lesbian	s
+descendable	descend	able
+political	politic	al
+spewed	spew	ed
+flewed	flew	ed
+reprojection	re	project	ion
+simultaneously	simulta	neous	ly
+computation	comput	ation
+perception	percept	ion
+twofold	two	fold
+assembled	assembl	ed
+suitable	suit	able
+geometrical	geo	metric	al
+framework	frame	work
+minimizing	minim	iz	ing
+aggressive	aggress	ive
+decrease	de	creas	e
+constrained	con	strain	ed
+detection	detect	ion
+monochromatic	mono	chrom	atic
+allowing	allow	ing
+mounted	mount	ed
+quadrotor	quad	rotor
+parameters	para	meter	s
+counteracting	counter	act	ing
+reconstruction	re	construct	ion
+generating	generat	ing
+proposing	pro	pos	ing
+estimation	estimat	ion
+controllers	control	ler	s
+derivatives	deriv	ative	s
+beginning	begin	n	ing
+normalization	normal	iz	ation
+candidates	candidat	e	s
+differentially	differ	ential	ly
+chainsaw	chain	saw
+flashback	flash	back
+anyway	any	way
+cleverness	clever	ness
+discharged	dis	charg	ed
+unworthy	un	worth	y
+intakes	in	take	s
+Sunday	Sun	day
+physical	physic	al
+cannot	can	not
+stereophonic	stereo	phon	ic
+eatable	eat	able
+orthographic	ortho	graph	ic
+neural	neur	al
+wizardry	wizard	ry
+refunds	re	fund	s
+challenging	challeng	ing
+integrable	integr	able
+unimpressed	un	impress	ed
+charming	charm	ing
+chairman	chair	man
+sharpshooters	sharp	shoot	er	s
+network	net	work
+unwillingness	un	will	ing	ness
+anyhow	any	how
+isomorphic	iso	morph	ic
+vocations	voc	ation	s
+forecasting	fore	cast	ing
+bloody	blood	y
+unbounded	un	bound	ed
+topology	topo	logy
+without	with	out
+magical	magic	al
+eigenvectors	eigen	vector	s
+eigendecomposition	eigen	de	compos	ition
+sunlight	sun	light
+burning	burn	ing
+intimidation	intimidat	ion
+butcher	butch	er
+values	value	s
+frogs	frog	s
+serendipity	serendip	ity
+goat	goat
+crawling	crawl	ing
+superpower	super	power
+lighter	light	er
+student	stud	ent
+trays	tray	s
+selfishness	self	ish	ness
+freestyles	free	style	s
+traces	trace	s
+freezer	freez	er
+preacher	preach	er
+selection	select	ion
+dawn	dawn
+fireman	fire	man
+potter	pot	t	er
+monks	monk	s
+shadows	shadow	s
+doorway	door	way
+vaporiser	vapor	is	er
+widow	widow
+pillows	pillow	s
+inheritance	inherit	ance
+history	history
+teetotaller	teetotal	l	er
+variables	var	iable	s
+dolphine's	dolphine	's
+brutality	brutal	ity
+walker	walk	er
+kissed	kiss	ed
+decompose	de	compose
+higher	high	er
+lowest	low	est
+spending	spend	ing
+manufacturer's	manu	factur	er	's
+snakes	snake	s
+cloudy	cloud	y
+uncomfortable	un	comfort	able
+discoverer's	discover	er	's
+whatever	what	ever
+footnote	foot	note
+textbook	text	book
+against	against
+metaphorically	metaphor	ical	ly
+precision	precis	ion
+roommate	room	mate
+connections	connect	ion	s
+completeness	complete	ness
+flashed	flash	ed
+internationality	inter	nation	al	ity
+instructor's	instruct	or	's
+assignment	assign	ment
+investments	invest	ment	s
+swimming	swim	ming
+global	glob	al
+outside	out	side
+carelessness	care	less	ness
+nonperishable	non	perish	able
+achievement	achieve	ment
+marginalize	margin	al	ize
+darken	dark	en
+premodernism	pre	modern	ism
+motherhood	mother	hood
+lawmakers	law	mak	er	s
+louder	loud	er
+unbearable	un	bear	able
+difficulties	difficult	i	es
+bodyguards	body	guard	s
+recreation	re	creat	ion
+uncivilized	un	civil	iz	ed
+protection	protect	ion
+manager	manag	er
+reignited	re	ignit	ed
+sheep	sheep
+declassify	de	class	ify
+enclosure	en	clos	ure
+globalization	glob	al	iz	ation
+threaten	threat	en
+increasingly	increas	ing	ly
+famously	famous	ly
+clueless	clue	less
+undecipherable	un	de	cipher	able
+doughnuts	dough	nut	s
+unprepared	un	prepar	ed
+unfearful	un	fear	ful
+hemispherical	hemi	spher	ical
+alternatively	alternat	ive	ly
+mentally	mental	ly
+unlikely	un	like	ly
+reestablishment	re	establish	ment
+protoplasmic	proto	plasm	ic
+courageously	courage	ous	ly
+unlawful	un	law	ful
+preexisting	pre	exist	ing
+coworkers	co	work	er	s
+boundary	bound	ary
+reactivate	re	activ	ate
+advertisement	advert	ise	ment
+adjustability	adjust	abil	ity
+dehumanize	de	human	ize
+discernment	discern	ment
+reachability	reach	abil	ity
+gracefully	grace	ful	ly
+outstanding	out	stand	ing
+capitalist	capital	ist
+gravitational	gravit	ation	al
+forever	for	ever
+unforgiving	un	forgiv	ing
+acidify	acid	ify
+cleaner	clean	er
+misspelling	mis	spell	ing
+misleading	mis	lead	ing
+demagnetize	de	magnet	ize
+brotherhood	brother	hood
+disappeared	dis	appear	ed
+homesickness	home	sick	ness
+whichever	which	ever
+monogamy	mono	gamy
+friendships	friend	ship	s
+abnormal	ab	norm	al
+exactly	exact	ly
+frequently	frequent	ly
+polygamy	poly	gamy
+madness	mad	ness
+ghost	ghost
+selfish	self	ish
+ambidexterous	ambi	dexter	ous
+drug	drug
+talkactive	talk	active
+mental	ment	al
+gap	gap
+dentist	dent	ist
+rules	rule	s
+pointless	point	less
+hands	hand	s
+guilty	guilt	y
+whenever	when	ever
+adverb	ad	verb
+face	face
+prefer	pre	fer
+cheater	cheat	er
+thoughtful	thought	ful
+probably	probab	ly
+globally	global	ly
+grasping	grasp	ing
+briefly	brief	ly
+fistful	fist	ful
+checked	check	ed
+undecidable	un	decid	able
+looked	look	ed
+humanoid	human	oid
+disattention	dis	attention
+loving	lov	ing
+goes	go	es
+uncommon	un	common
+darkness	dark	ness
+uncertainty	un	certain	ty
+keeper	keep	er
+phones	phone	s
+nearly	near	ly
+lovely	love	ly
+talking	talk	ing
+unimaginable	un	imagin	able
+deeply	deep	ly
+unrepeatable	un	repeat	able
+asocial	a	social
+gently	gent	ly
+reader	read	er
+internationalization	inter	nation	al	iza	tion
+hello	hello
+watched	watch	ed
+leaders	lead	er	s
+boys	boy	s
+focusing	focus	ing
+me	me
+inactive	in	act	ive
+cultural	cultur	al
+dislike	dis	like
+boxes	box	es
+additional	add	ition	al
+seeing	see	ing
+inflectional	inflect	ion	al
+chronicles	chronicle	s
+lions	lion	s
+director	direct	or
+carefully	care	ful	ly
+popularity	popular	ity
+going	go	ing
+disagreed	dis	agree	d
+executives	execut	ive	s
+pieces	piece	s
+nominations	nominat	ion	s
+inside	in	side
+regarded	regard	ed
+active	act	ive
+directed	direct	ed
+trying	try	ing
+dreamless	dream	less
+provident	provid	ent
+missing	miss	ing
+disbelieves	dis	believe	s
+purely	pure	ly
+escalators	escalat	or	s
+abnormally	ab	normal	ly
+cuteness	cute	ness
+breakable	break	able
+deletes	delete	s
+injustice	in	justice
+empowerment	em	power	ment
+hangman	hang	man
+abandoned	abandon	ed
+commands	command	s
+changeful	change	ful
+murderers	murder	er	s
+twisted	twist	ed
+affordable	afford	able
+deathly	death	ly
+biblical	bibl	ical
+heaviest	heav	i	est
+amusing	amus	ing
+blinking	blink	ing
+contamination	contamin	ation
+combatant	combat	ant
+coeditors	co	edit	or	s
+collectedness	collect	ed	ness
+ceremonial	ceremoni	al
+defection	defect	ion
+overpay	over	pay
+woodenly	wood	en	ly
+holiday	holi	day
+abusive	ab	us	ive
+astrograph	astro	graph
+unposted	un	post	ed
+taxable	tax	able
+misadapt	mis	adapt
+fillable	fill	able
+awareness	aware	ness
+authorless	author	less
+rebuilded	re	build	ed
+floatingly	float	ing	ly
+buildable	build	able
+reobserved	re	observ	ed
+requital	re	quit	al
+futurism	futur	ism
+underlight	under	light
+unpasting	un	past	ing
+recompile	re	compil	e
+unpercussed	un	percuss	ed
+bribery	bribe	ry
+seventeen	seven	teen
+conception	concept	ion
+reballoted	re	ballot	ed
+generalized	general	ized
+copyright	copy	right
+oceanic	ocean	ic
+unboarded	un	board	ed
+offerer	off	er	er
+upbeat	up	beat
+bounty	bount	y
+welcome	wel	come
+pyramid	pyram	id
+overlords	over	lord	s
+improvising	im	provis	ing
+smorgasbord	smor	gas	bord
+jungle	jungle
+freckle	freckle
+palette	palette
+horizontal	horizon	tal
+encompasses	en	compass	es
+frantic	frantic
+googling	googl	ing
+spaghetti	spagh	etti
+unicorn	uni	corn
+pitching	pitch	ing
+freedom	free	dom
+hesitation	hesitat	ion
+radical	radic	al
+bohemian	bohemia	n
+contingency	con	tingen	cy
+conundrum	conundrum
+aliens	alien	s
+panamorphic	pana	morph	ic
+procrustean	pro	crust	ean
+plywood	ply	wood
+dough	dough
+saturation	satur	at	ion
+ebb	ebb
+chairs	chair	s
+online	on	line
+grandchildren	grand	children
+realistically	real	istic	ally
+fisherman	fish	er	man
+plumb	plumb
+references	refer	ence	s
+milk	milk
+firefighters	fire	fight	er	s
+unreliable	un	rel	i	able
+unreachables	un	reach	able	s
+technically	tech	nic	ally
+under	under
+morphology	morph	olo	gy
+plumbers	plumb	er	s
+table	table
+butter	butter
+fishermen	fish	er	men
+violin	violin
+driver	driv	er
+jeopardize	jeopard	ize
+notebooks	note	book	s
+aid	aid
+reliable	rel	i	able
+realistic	real	istic
+band	band
+fires	fire	s
+unreachable	un	reach	able
+unbreakable	un	break	able
+discovering	discover	ing
+watchmakers	watch	maker	s
+existential	exist	ential
+pitfalls	pit	fall	s
+reckoning	reckon	ing
+selfdriving	self	driv	ing
+settlement	settle	ment
+confidentiality	confidential	ity
+editorials	edit	orial	s
+commitment	commit	ment
+windmills	wind	mill	s
+earthbound	earth	bound
+shareholders	share	holder	s
+pornography	porno	graphy
+harnessing	harness	ing
+successfulness	success	ful	ness
+trainwreck	train	wreck
+harassment	harass	ment
+accountability	account	abil	ity
+outrageous	outrage	ous
+breakthrough	break	through
+highlights	high	light	s
+ridehailing	ride	hail	ing
+incompetence	in	competence
+summertime	summer	time
+justify	just	ify
+unemployed	un	employ	ed
+prefix	pre	fix
+husbands	husband	s
+governmental	govern	ment	al
+contemplation	contemplat	ion
+desirability	desir	abil	ity
+environmentally	environ	ment	al	ly
+unfair	un	fair
+boy	boy
+crying	cry	ing
+thumbtack	thumb	tack
+ugly	ugly
+bicycle	bi	cycle
+milder	mild	er
+grandmothers	grand	mother	s
+disobey	dis	obey
+island	island
+truth	tru	th
+trusted	trust	ed
+fragility	fragil	ity
+payment	pay	ment
+disinfectant	dis	infect	ant
+linguistic	linguist	ic
+barefoot	bare	foot
+deform	de	form
+hopefully	hope	ful	ly
+crinckly	crinckl	y
+excellent	excell	ent
+fearlessness	fear	less	ness
+spelling	spell	ing
+overwinter	over	winter
+blandishment	bland	ish	ment
+embezzlement	embezzle	ment
+meaning	mean	ing
+background	back	ground
+radioimmunoelectrophoresis	radio	immuno	electro	phoresis
+reproduce	re	produce
+abnegation	ab	negation
+misinterpretation	mis	interpret	ation
+formed	form	ed
+understructure	under	structure
+pneumonoultramicroscopicsilicovolcanoconiosis	pneumono	ultra	micro	scopic	silico	volcano	coniosis
+fundamental	fundament	al
+lactovegetarian	lacto	vegetarian
+radioactive	radio	active
+sadness	sad	ness
+groundwork	ground	work
+occasional	occasion	al
+unlimited	un	limit	ed
+antidisestablishmentarianism	anti	dis	establish	ment	arian	ism
+professional	profession	al
+accounting	account	ing
+newspaper	news	paper
+undercommercialization	under	commercial	ization
+nonvirtuousness	non	virtuous	ness
+electroencephalograph	electro	encephalo	graph
+far	far
+forgetful	forget	ful
+juice	juice
+trick	trick
+choke	choke
+nutritious	nutrit	ious
+carriage	carr	iage
+uttermost	utter	most
+befitting	be	fitt	ing
+horse	horse
+hellish	hell	ish
+chalk	chalk
+functional	function	al
+book	book
+succeed	succe	ed
+awful	aw	ful
+offer	off	er
+wash	wash
+majestic	majest	ic
+appreciate	appreciate
+wandering	wander	ing
+note	note
+applaud	applaud
+knowing	know	ing
+absorbed	absorb	ed
+stamp	stamp
+grumpy	grump	y
+hate	hate
+engine	engine
+perfect	perfect
+unequaled	un	equal	ed
+file	file
+puffy	puff	y
+weather	weather
+argue	argue
+remarkable	re	mark	able
+afterthought	after	thought
+blind	blind
+incompetent	in	compet	ent
+handle	hand	le
+beds	bed	s
+legal	legal
+cakes	cake	s
+grandfather	grand	father
+spark	spark
+combative	combat	ive
+last	last
+adhesive	adhes	ive
+circuits	circuit	s
+consciousness	conscious	ness
+biolinguistics	bio	linguist	ic	s
+urges	urge	s
+behaviourism	behaviour	ism
+think-tank	think	-	tank
+patron	patron
+cognitive	cognit	ive
+mechanism	mechan	ism
+transformational	transform	ation	al
+inbred	in	bred
+U.S.-based	U.S.	-	base	d
+elementwise	element	wise
+exposed	expose	d
+corporate	corporate
+minimalism	minimal	ism
+metricated	metric	ate	d
+liveliness	live	li	ness
+propaganda	propaganda
+unlike	un	like
+inborn	in	born
+dominant	domin	ant
+anti-nativist	anti	-	nativ	ist
+empiricism	empiric	ism
+syntactician	syntactic	ian
+antihistamine	anti	hist	amine
+injection	in	ject	ion
+pathological	path	olog	ic	al
+abortion	abort	ion
+autism	aut	ism
+thermometer	therm	o	meter
+headache	head	ache
+spiritually	spirit	ual	ly
+secretions	secre	tion	s
+prescription	pre	script	ion
+depression	de	press	ion
+problematic	problem	atic
+treatments	treat	ment	s
+contagious	contag	i	ous
+mixture	mix	t	ure
+operation	operat	ion
+vitamine	vit	amine
+accumulation	accumula	tion
+chronical	chron	ic	al
+lymphatic	lymph	atic
+painful	pain	ful
+painkillers	pain	kill	er	s
+prescribe	pre	scrib	e
+decongestant	de	congest	ant
+hypertension	hyper	tens	ion
+failure	fail	ure
+medication	medic	at	ion
+albinism	albin	ism
+medically	medic	al	ly
+unsafe	un	safe
+employment	employ	ment
+boring	bor	ing
+everyone	every	one
+softness	soft	ness
+wildly	wild	ly
+bored	bor	ed
+somebody	some	body
+shipment	ship	ment
+takeoff	take	off
+manageress	manag	er	ess
+partnership	partner	ship
+smallest	small	est
+arthroplasty	arthro	plast	y
+stiffness	stiff	ness
+hopeful	hope	ful
+useless	use	less
+salesmen	sale	s	men
+masterchef	master	chef
+lordship	lord	ship
+slowly	slow	ly
+homework	home	work
+television	tele	vision
+imprecise	im	precise
+independently	in	depend	ent	ly
+electrocardiographic	electr	o	cardi	o	graph	ic
+gentlemen	gentle	men
+herself	her	self
+gastroscopy	gastr	o	scop	y
+toothpaste	tooth	paste
+neoplasty	neo	plast	y
+developed	develop	ed
+underwear	under	wear
+contraceptive	contra	ceptive
+president	presid	ent
+contrary	contra	ry
+faster	fast	er
+snobbish	snob	b	ish
+creative	creat	ive
+resistance	resist	ance
+dudes	dude	s
+gravitate	gravit	ate
+protector	protect	or
+sinking	sink	ing
+atonal	a	tonal
+persistence	persist	ence
+captains	captain	s
+shouted	shout	ed
+fusion	fus	ion
+fellowship	fellow	ship
+cooler	cool	er
+committent	commit	t	ent
+ephemeral	ephemer	al
+stepping	step	p	ing
+falsehood	false	hood
+guys	guy	s
+persistent	persist	ent
+basement	base	ment
+appealing	appeal	ing
+bumping	bump	ing
+nervous	nerv	ous
+amoral	a	moral
+governor	govern	or
+importance	import	ance
+reconsider	re	consider
+kingdoms	king	dom	s
+unhealthy	un	health	y
+modernize	modern	ize
+disengagement	dis	engage	ment
+readings	read	ing	s
+waiter	wait	er
+seaward	sea	ward
+discouraged	dis	courage	d
+sprayable	spray	able
+poetic	poet	ic
+jumping	jump	ing
+password	pass	word
+researchers	re	search	er	s
+sickness	sick	ness
+resettled	re	settle	d
+autobiography	auto	bio	graph	y
+dedication	dedicat	ion
+friendliness	friend	li	ness
+holyday	holy	day
+unacceptable	un	accept	able
+actor	act	or
+truthfully	tru	th	ful	ly
+encouragement	en	courage	ment
+mistreatment	mis	treat	ment
+childish	child	ish
+wastage	wast	age
+keys	key	s
+biannually	bi	annu	al	ly
+studenthood	stud	ent	hood
+engineer	engin	eer
+previewing	pre	view	ing
+overpowering	over	power	ing
+degenerates	de	generate	s
+implanted	im	plant	ed
+malfunction	mal	function
+embankment	em	bank	ment
+untruthfulness	un	truth	ful	ness
+thermodynamics	thermo	dynamics
+formation	form	ation
+contain	con	tain
+synthetic	syn	thetic
+untouchable	un	touch	able
+shooting	shoot	ing
+unsteadily	un	steadi	ly
+microbiology	micro	bio	log	y
+cooperatively	co	operat	ive	ly
+retrospection	retro	spec	tion
+undone	un	done
+confusion	confus	ion
+qualification	qualif	ic	ation
+misidentified	mis	ident	ifi	ed
+electricity	electric	ity
+anticapitalistic	anti	capital	ist	ic
+refilled	re	fill	ed
+testify	test	ify
+exceedingly	exceed	ing	ly
+productivity	product	iv	ity
+disinclination	dis	inclin	ation
+irregularity	ir	regul	ar	ity
+foolishness	fool	ish	ness
+unkindness	un	kind	ness
+philosophy	philo	soph	y
+inadequacy	in	adequa	cy
+electronically	electron	ic	ally
+dislikeable	dis	like	able
+cleanlineness	clean	line	ness
+massiveness	massive	ness
+blandness	bland	ness
+healthiness	healthi	ness
+bedroom	bed	room
+bitterness	bitter	ness
+craziness	crazi	ness
+dimonsionless	dimon	sion	less
+homeless	home	less
+coworker	co	worker
+promtness	promt	ness
+rashness	rash	ness
+shameless	shame	less
+funniness	funni	ness
+illness	ill	ness
+hapless	hap	less
+classmade	class	made
+quickness	quick	ness
+roundness	round	ness
+hardworking	hard	work	ing
+peaceful	peace	ful
+diligent	dili	gent
+froutful	frout	ful
+gloominess	gloomi	ness
+graciousness	gracious	ness
+busyness	busy	ness
+priceless	price	less
+homemade	home	made
+happyness	happy	ness
+regiment	regi	ment
+marker	mark	er
+airplane	air	plane
+forgery	forg	ery
+randomized	random	iz	ed
+missionary	mission	ary
+notebook	note	book
+robbery	robb	ery
+endlessly	end	less	ly
+cacophony	caco	phony
+loophole	loop	hole
+cheesecake	cheese	cake
+mindless	mind	less
+archery	arch	ery
+devastation	devastat	ion
+mankind	man	kind
+cheeseburger	cheese	burger
+slaughterhouse	slaughter	house
+retirement	retire	ment
+cumbersome	cumber	some
+distribution	distribut	ion
+usefulness	use	ful	ness
+painless	pain	less
+sweeten	sweet	en
+smuggler	smuggl	er
+lawgiver	law	giv	er
+boredom	bore	dom
+stealing	steal	ing
+wireless	wire	less
+travelling	travell	ing
+lifeguard	life	guard
+destruction	destruct	ion
+argument	argu	ment
+hog	hog
+extortion	extort	ion
+minority	minor	ity
+jailbreak	jail	break
+paperwork	paper	work
+destructiveness	destruct	ive	ness
+starvation	starv	ation
+pathfinder	path	find	er
+stepmother	step	mother
+frontlet	front	let
+pegs	peg	s
+triggered	trigger	ed
+abused	abuse	d
+normated	normated
+realign	re	align
+pyrotechnical	pyro	technic	al
+kisses	kiss	es
+gruntled	grunt	led
+centered	center	ed
+megacolon	mega	colon
+guy	guy
+abuse	abuse
+grainways	grain	way	s
+extrasterile	extra	sterile
+terrane	terrane
+reinfusion	re	infus	ion
+abuses	abuse	s
+stepmotherliness	step	mother	liness
+swallowpipe	swallow	pipe
+telemeter	tele	meter
+suboval	sub	oval
+pyre	pyre
+cedilla	cedilla
+semideaf	semi	deaf
+peg	peg
+extropical	extropical
+owlet	ow	let
+confidential	confident	ial
+pronounce	pro	nounce
+consultant	consult	ant
+fluids	fluid	s
+nanometer	nano	meter
+uncirculating	un	circulat	ing
+overpopulating	over	populat	ing
+macroclimate	macro	climate
+sated	sat	ed
+reassigning	re	assign	ing
+panical	panic	al
+propagators	propagat	or	s
+machinist	machin	ist
+stopping	stopp	ing
+paranoia	para	noia
+nordic	nord	ic
+portlight	port	light
+annotate	an	not	ate
+underconsumption	under	consum	ption
+introvolution	intro	volution
+uncover	un	cover
+uniserial	uni	serial
+dysfunction	dys	function
+slowness	slow	ness
+nullify	null	ify
+residuary	residu	ary
+menopause	meno	pause
+multisensory	multi	sensor	y
+developments	develop	ment	s
+readjusted	re	adjust	ed
+unrelated	un	relat	ed
+foretasting	fore	tast	ing
+designing	design	ing
+affected	affect	ed
+natural	natur	al
+activities	activ	it	ies
+relaxed	relax	ed
+backward	back	ward
+rotator	rotat	or
+muscles	muscle	s
+removed	re	mov	ed
+senator	senat	or
+buses	bus	es
+resisting	resist	ing
+downward	down	ward
+parliament	parlia	ment
+preoccipital	pre	occipit	al
+multitude	multi	tude
+commonly	common	ly
+unbeatable	un	beat	able
+carrying	carry	ing
+mechanically	mechan	ic	al	ly
+insignificant	in	signific	ant
+connecting	connect	ing
+audience	audi	ence
+federations	feder	ation	s
+leadership	lead	er	ship
+overcrowding	over	crowd	ing
+conservatively	conservat	ive	ly
+heavens	heaven	s
+etymology	etymo	logy
+woman	woman
+address	address
+foreman	fore	man
+parsing	pars	ing
+pigeonhole	pigeon	hole
+lemma	lemma
+Quinean	Quine	an
+posted	post	ed
+summed	sum	med
+dilemma	dilemma
+pipeline	pipe	line
+give	give
+power	power
+footwear	foot	wear
+man	man
+tokenization	token	ization
+folder	fold	er
+always	always
+quits	quit	s
+forearm	fore	arm
+summer	summer
+lexicographer	lexico	graph	er
+ongoing	on	go	ing
+dress	dress
+forgive	forgive
+foreign	foreign
+arm	arm
+kidding	kidd	ing
+run	run
+recurrent	re	current
+title	title
+play	play
+kids	kid	s
+regressor	re	gress	or
+sick	sick
+ill	ill
+surname	sur	name
+long	long
+current	current
+short	short
+wife	wife
+recallment	re	call	ment
+war	war
+lasting	last	ing
+kid	kid
+cold	cold
+colding	cold	ing
+called	call	ed
+mean	mean
+calling	call	ing
+rerun	re	run
+seaside	sea	side
+evaluating	e	valu	at	ing
+catechized	catech	iz	ed
+eyedrop	eye	drop
+policewoman	police	woman
+nakedness	naked	ness
+gaslights	gas	light	s
+illumination	illuminat	ion
+chessman	chess	man
+initiate	initi	ate
+freshers	fresh	er	s
+ziggurats'	ziggurat	s	'
+barracuda	barracuda
+swordfish	sword	fish
+masseuse	mass	euse
+liquors	liquor	s
+revolvers'	revolv	er	s	'
+charismatic	charismat	ic
+discounts	dis	count	s
+dildos	dildo	s
+ratings	rating	s
+pruners	prun	er	s
+greatest	great	est
+gazing	gaz	ing
+woodwork	wood	work
+excretion	excret	ion
+physiologists'	physi	olog	ist	s	'
+enslaves	en	slave	s
+seahorse	sea	horse
+inexorably	inexorab	ly
+inconspicuous	in	conspicu	ous
+enlightening	en	light	en	ing
+irrational	ir	ratio	nal
+misconduct	mis	con	duct
+impartiality	im	partial	ity
+diminishing	di	minish	ing
+fraudulent	fraud	ulent
+subterfuge	subter	fuge
+indistinguishable	in	dis	tinguish	able
+disadvantageous	dis	advantage	ous
+obscurity	obscur	ity
+demoralization	de	moraliz	ation
+retrogression	retro	gression
+reappearing	re	appear	ing
+imposture	impos	ture
+injuriously	injurious	ly
+manifestation	mani	fest	ation
+extermination	ex	termin	ation
+drawback	draw	back
+undulation	und	ulation
+contemplate	con	template
+inaudible	in	aud	ible
+disproportionate	dis	proportion	ate
+honorable	honor	able
+plausible	plaus	ible
+utterances	utter	ance	s
+familiarized	familiar	iz	ed
+unprecedented	un	precedent	ed
+forgetfulness	forget	ful	ness
+approximation	approxim	ation
+occasionally	occasion	ally
+unquestionable	un	question	able
+pig	pig
+tomatoes	tomato	es
+astonishing	astonish	ing
+hum	hum
+potatoes	potato	es
+song	song
+potato	potato
+boat	boat
+educated	educat	ed
+creator	creat	or
+rush	rush
+nerve	nerve
+ink	ink
+pull	pull
+mellow	mellow
+sidewalk	side	walk
+divergent	diverg	ent
+exclusive	exclus	ive
+memorise	memor	ise
+suit	suit
+troubled	troubl	ed
+numerous	numer	ous
+noise	noise
+rinse	rinse
+pale	pale
+sleet	sleet
+curve	curve
+knife	knife
+noiseless	noise	less
+ceaseless	cease	less
+sleeping	sleep	ing
+happiness	happi	ness
+Hotdogs	hot	dog	s
+barking	bark	ing
+dreaming	dream	ing
+books	book	s
+disclose	dis	close
+locked	lock	ed
+prejudges	pre	judge	s
+graceful	grace	ful
+flowchart	flow	chart
+language	lan	guage
+dictatorial	dictator	ial
+horses	horse	s
+walked	walk	ed
+beers	beer	s
+rationalist	rational	ist
+drumheads	drum	head	s
+blueprint	blue	print
+pens	pen	s
+drivers	driv	er	s
+Disgraceful	Dis	grace	ful
+expressway	express	way
+fearlessly	fear	less	ly
+helplessness	help	less	ness
+formerly	former	ly
+exchanging	ex	chang	ing
+majority	major	ity
+historical	histor	ical
+loyalty	loyal	ty
+possession	possess	ion
+meanwhile	mean	while
+typewriter	type	writ	er
+dismissing	dis	miss	ing
+dangerous	danger	ous
+grateful	grate	ful
+occupation	occup	ation
+collection	collect	ion
+accountant	ac	count	ant
+performer	perform	er
+handwriting	hand	writ	ing
+interested	interest	ed
+knowledge	know	ledge
+sunglasses	sun	glass	es
+himself	him	self
+everywhere	every	where
+bibliography	biblio	graphy
+accurate	ac	cur	ate
+imagination	imag	ination
+neighborhood	neighbor	hood
+independence	in	dependen	ce
+playthings	play	thing	s
+weatherman	weather	man
+celebration	celebrat	ion
+biographical	bio	graph	ic	al
+uptight	up	tight
+tighten	tight	en
+stapler	stapl	er
+congregated	con	gregate	d
+underground	under	ground
+unknow	un	know
+undesiderable	un	desider	able
+meaningful	meaning	ful
+enforcement	en	force	ment
+encoded	en	code	d
+tightness	tight	ness
+preprocessing	pre	process	ing
+impraticable	im	pratic	able
+staying	stay	ing
+waiting	wait	ing
+refactoring	re	factor	ing
+assessment	assess	ment
+undeniable	un	deni	able
+deliverance	deliver	ance
+unconstitutional	un	constitution	al
+assertion	asser	tion
+colorful	color	ful
+quickly	quick	ly
+bloodline	blood	line
+unfashionable	un	fashion	able
+unreasonable	un	reason	able
+unpopular	un	popular
+running	runn	ing
+boosted	boost	ed
+redeployment	re	deploy	ment
+overvalued	over	valu	ed
+antihero	anti	hero
+landowner	land	own	er
+optimum	optim	um
+drained	drain	ed
+golden	gold	en
+specification	specif	ic	ation
+zooming	zoom	ing
+youngster	young	ster
+foolproof	fool	proof
+orange	orange
+scandalize	scandal	ize
+bookbinder	book	bind	er
+topographical	topo	graph	ic	al
+headphones	head	phone	s
+queenside	queen	side
+goodness	good	ness
+unattainable	un	attain	able
+beach	beach
+stuffing	stuff	ing
+unannounced	un	announc	ed
+core	core
+unborn	un	born
+wordplay	word	play
+irrefutable	ir	refut	able
+charge	charge
+scalding	scald	ing
+anybody	any	body
+white	white
+bakers	bak	er	s
+undertaking	under	tak	ing
+presentiments	pre	sentiment	s
+overcooked	over	cook	ed
+underrepresented	under	represent	ed
+miscalculates	mis	calculate	s
+xenotransplantations	xeno	trans	plantation	s
+wearing	wear	ing
+abdicated	abdicate	d
+unstrapped	un	strapp	ed
+wednesdays	wednesday	s
+wounded	wound	ed
+whitewashing	white	wash	ing
+zeroing	zero	ing
+zapping	zap	ping
+yearlings	year	ling	s
+overcrowded	over	crowd	ed
+zigzagged	zig	zag	ged
+underwriter	under	write	r
+abjures	abjure	s
+overdevelop	over	develop
+zoology	zoo	logy
+wined	win	ed
+welcoming	welcom	ing
+understatement	under	state	ment
+unpredictabilities	un	predict	abilit	ies
+withholded	with	hold	ed
+abjected	abject	ed
+yanking	yank	ing
+outstretch	out	stretch
+undervalued	under	value	d
+interchangeabilities	inter	change	abilit	ies
+roadway	road	way
+academic	academ	ic
+smaller	small	er
+rainy	rain	y
+unconventional	un	convention	al
+waterfall	water	fall
+scientific	scient	ific
+prehistoric	pre	histor	ic
+pony	pony
+friendly	friend	ly
+bidirection	bi	direct	ion
+musician	music	ian
+pets	pet	s
+election	elect	ion
+speaking	speak	ing
+peacefull	peace	full
+guitarist	guitar	ist
+sexy	sex	y
+trainer	train	er
+doors	door	s
+win	win
+readable	read	able
+boyfriends	boy	friend	s
+sons	son	s
+sunrise	sun	rise
+lake	lake
+commander	command	er
+showman	show	man
+housewife	house	wife
+wind	wind
+promotional	promot	ion	al
+neutron	neutr	on
+positron	posi	tron
+worshipping	wor	ship	ping
+pions	pi	on	s
+quark	quark
+cyclotron	cyclo	tron
+papermaking	paper	mak	ing
+pyrotechnic	pyro	techn	ic
+neutrino	neutr	ino
+electron	electr	on
+pikeman	pike	man
+gluon	glu	on
+piezoelectric	piezo	electr	ic
+hydrodynamics	hydro	dynam	ics
+muon	mu	on
+swordman	sword	man
+exoplanet	exo	planet
+orbital	orbit	al
+nuclear	nucle	ar
+slavery	slav	ery
+papyrus	papyrus
+cataphract	cata	phract
+chartaceous	charta	ceous
+overwhelming	over	whelm	ing
+bowman	bow	man
+antiproton	anti	prot	on
+hadron	hadr	on
+proton	prot	on
+charta	charta
+homepage	home	page
+nuthouse	nut	house
+crucially	cruc	ial	ly
+infallible	in	fallible
+typed	typ	ed
+watchdog	watch	dog
+vodka	vodka
+unctuousness'	unctu	ous	ness	'
+autobiographically	auto	bio	graph	ic	ally
+alum	alum
+truncate	truncate
+mouthwashes	mouth	wash	es
+cubic	cub	ic
+corns	corn	s
+sees	see	s
+goods	good	s
+bookcase	book	case
+hag	hag
+marrows	marrow	s
+spectres	spectre	s
+apathetically	a	path	etic	ally
+cargo	cargo
+dozed	doze	d
+villain	villain
+impressed	im	press	ed
+silk	silk
+twirls	twirl	s
+accelerate	accelerate
+cause	cause
+wall	wall
+likeable	like	able
+desires	desire	s
+succeeding	succeed	ing
+recounts	re	count	s
+poor	poor
+emphasis	emphasis
+hourly	hour	ly
+quickens	quick	en	s
+zoom	zoom
+include	include
+postscript	post	script
+sadly	sad	ly
+achieved	achiev	ed
+calendar	calendar
+bold	bold
+highest	high	est
+jaws	jaw	s
+importing	import	ing
+request	request
+invested	invest	ed
+undertakings	under	tak	ing	s
+nose	nose
+performance	perform	ance
+violent	violent
+these	these
+priests	priest	s
+several	several
+tenderness	tend	er	ness
+hardness	hard	ness
+impossibilities	im	possib	ilit	ies
+avoided	avoid	ed
+price	price
+regrouping	re	group	ing
+ladylike	lady	like
+behead	be	head
+elements	element	s
+gentleman	gentle	man
+impossible	im	possible
+inputs	in	put	s
+components	component	s
+suddenly	sudden	ly
+trial	tri	al
+stupidity	stupid	ity
+goodbye	good	bye
+prepay	pre	pay
+retroactive	re	tro	active
+another	an	other
+classroom	class	room
+purposeful	purpose	ful
+deforms	de	form	s
+blindness	blind	ness
+redness	red	ness
+certainly	certain	ly
+depose	de	pose
+smarten	smart	en
+unpresentable	un	present	able
+befriended	be	friend	ed
+repackage	re	pack	age
+taller	tall	er
+calmly	calm	ly
+within	with	in

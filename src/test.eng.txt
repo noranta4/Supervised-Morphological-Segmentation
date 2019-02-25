@@ -1,0 +1,347 @@
+accompaniment	ac:ac_p compani:company_N ment:ment_s
+acquisition	acquis:acquire_V ition:ition_s
+acupuncture	acupuncture:acupuncture_N
+adjudged	ad:ad_p judg:judge_V ed:+PAST
+afire	a:a_p fire:fire_N, a:a_p fire:fire_N
+agelessness	age:age_N less:less_s ness:ness_s
+airspeed	air:air_N speed:speed_V
+algerians	algeri:Algeria_N an:an_s s:+PL
+alters	alter:alter_V s:+3SG
+alumnus'	alumnus:alumnus_N ':+GEN
+anyhow	any:any_O how:how_B
+apartment's	a:a_p part:part_N ment:ment_s 's:+GEN
+archaisms	archa:archaic_A ism:ism_s s:+PL
+archetypal	archetyp:archetype_N al:al_s
+archimandrite's	archimandrite:archimandrite_N 's:+GEN
+astronomers'	astr:astro_p onom:onomy_s er:er_s s:+PL ':+GEN
+backpedal	back:back_B pedal:pedal_N
+badness	bad:bad_A ness:ness_s
+ballets'	ballet:ballet_N s:+PL ':+GEN
+bane's	bane:bane_N 's:+GEN
+batiste's	batiste:batiste_N 's:+GEN
+beachhead	beach:beach_N head:head_N
+bedsore	bed:bed_N sore:sore_A
+bequeathed	bequeath:bequeath_V ed:+PAST
+berths	berth:berth_N s:+PL, berth:berth_N s:+3SG
+bestir	be:be_p stir:stir_V
+bethel's	bethel:bethel_N 's:+GEN
+betrays	betray:betray_V s:+3SG
+billies'	billi:billy_N es:+PL ':+GEN
+blinder's	blind:blind_A er:er_s 's:+GEN
+blusterer	bluster:bluster_V er:er_s
+bootlace	boot:boot_N lace:lace_N
+bounteously	bount:bounty_N eous:eous_s ly:ly_s
+bread-and-butter	bread-and-butter:bread-and-butter_A
+bribes'	bribe:bribe_V s:+PL ':+GEN
+brushes'	brush:brush_N es:+PL ':+GEN
+buckled	buckl:buckle_N ed:+PAST
+bypassing	by:by_P pass:pass_V ing:+PCP1
+cankered	canker:canker_N ed:+PAST
+capitulating	capitulat:capitulate_V ing:+PCP1
+capsicums	capsicum:capsicum_N s:+PL
+cashiers	cash:cash_N ier:ier_s s:+PL, cashier:cashier_V s:+3SG
+cauliflower's	cauliflower:cauliflower_N 's:+GEN
+cent	cent:cent, cent:cent_N
+centralized	centr:centre_N al:al_s iz:ize_s ed:+PAST
+cents'	cent:cent_N s:+PL ':+GEN
+challenger's	challeng:challenge_V er:er_s 's:+GEN
+cheeks'	cheek:cheek_N s:+PL ':+GEN
+chlorinates	chlorin:chlorine_N ate:ate_s s:+3SG
+chocolates	chocolate:chocolate_N s:+PL
+choicest	choic:choice_N est:+SUP
+chokes	choke:choke_V s:+PL, choke:choke_V s:+3SG
+chronically	chronic:chronic_A ally:ally_s
+clean-living	clean:clean_A -:~ living:living_V
+cliches	cliche:cliche_N s:+PL
+coach	coach:coach_N, coach:coach_N
+coffee	coffee:coffee_N
+cognac	cognac:cognac_N
+coinage	coin:coin_N age:age_s
+collectivization	collect:collect_V ~:ion_s iv:ive_s iz:ize_s ation:ation_s
+combustible	combust:combust_V ible:ible_s, combust:combust_V ible:ible_s
+concurrences	concurr:concur_V ~:ent_s ence:ence_s s:+PL
+consul's	consul:consul_N 's:+GEN
+copilot	co:co_p pilot:pilot_N
+coterie	coterie:coterie_N
+countrified	countr:country_N ifi:ify_s ed:ed_s
+coxswain	coxswain:coxswain_N, coxswain:coxswain_N
+crikey	crikey:crikey
+cross-talk	cross:cross_p -:~ talk:talk_V
+curatorship	curator:curator_N ship:ship_s
+cusp	cusp:cusp_N
+dangle	dangle:dangle_V
+deacon's	deacon:deacon_N 's:+GEN
+defectors	defect:defect_V or:or_s s:+PL
+denuding	de:de_p nud:nude_A ing:+PCP1
+derogating	derogat:derogate_V ing:+PCP1
+dices	dice:dice_N s:+3SG
+dictatorial	dictat:dictate_V or:or_s ial:ial_s
+dinner-service	dinn:dine_V er:er_s -:~ serv:serve_V ice:ice_s
+discipline	discipline:discipline_V, discipline:discipline_V
+discovery's	dis:dis_p cov:cover_V ery:ery_s 's:+GEN
+disproportionately	dis:dis_p proportion:proportion_V ate:ate_s ly:ly_s
+disregarding	dis:dis_p regard:regard_V ing:+PCP1
+dissimilar	dis:dis_p similar:similar_A
+distiller	distill:distil_V er:er_s
+do-gooders	do:do_V -:~ good:good_A er:er_s s:+PL
+donation	donat:donate_V ion:ion_s
+doubled	doubl:double_A ed:+PAST
+duvet's	duvet:duvet_N 's:+GEN
+earthbound	earth:earth_N bound:bound_V
+eating-place	eating:eating_V -:~ place:place_N
+elder	elder:elder_N, elder:old_A ~:+CMP
+embalmer	em:em_p balm:balm_N er:er_s
+embellishing	embellish:embellish_V ing:+PCP1
+entreaty	entreat:entreat_V y:y_s
+expletives	expletive:expletive_N s:+PL
+exploratory	explor:explore_V at:ation_s ory:ory_s
+extensions	extens:extend_V ion:ion_s s:+PL
+facet	facet:facet_N
+falsehoods'	false:false_A hood:hood_s s:+PL ':+GEN
+faults	fault:fault_N s:+PL, fault:fault_N s:+3SG
+felicitous	felicit:felicity_N ous:ous_s
+fickleness	fickle:fickle_A ness:ness_s
+fins	fin:fin_N s:+PL
+fistulas	fistula:fistula_N s:+PL
+flabbergasts	flabbergast:flabbergast_V s:+3SG
+flattops	flat:flat_A top:top_N s:+PL
+folk-dance	folk:folk_N -:~ dance:dance_V
+follow-on	follow:follow_V -:~ on:on_P
+footage	foot:foot_N age:age_s
+forbidding	forbidd:forbid_V ing:+PCP1, forbidding:forbidding_V
+fords	ford:ford_N s:+PL, ford:ford_N s:+3SG
+foresees	fore:fore_p see:see_V s:+3SG
+fortnights	for:four_Q t:teen_s night:night_N s:+PL
+forward-looking	forward:forward_B -:~ looking:looking_V
+fountain's	fountain:fountain_N 's:+GEN
+fourpenny	four:four_Q penny:penny_N
+freaks'	freak:freak_N s:+PL ':+GEN
+funded	fund:fund_N ed:+PAST
+funds'	fund:fund_N s:+PL ':+GEN, funds:funds_N ':+GEN
+furrier	furr:fur_N i:y_s er:+CMP, furr:fur_N ier:ier_s
+gaiter's	gaiter:gaiter_N 's:+GEN
+gawp	gawp:gawp_V
+gibbon	gibbon:gibbon_N
+gibraltarian	gibraltar:Gibraltar_N ian:ian_s, gibraltar:Gibraltar_N ian:ian_s
+gipsies	gipsi:gipsy_N es:+PL
+gladdens	gladd:glad_A en:en_s s:+3SG
+gladness	glad:glad_A ness:ness_s
+goo's	goo:goo_N 's:+GEN
+graspingly	grasping:grasping_V ly:ly_s
+grocers	grocer:grocer_N s:+PL
+gumboot	gum:gum_N boot:boot_N
+halt	halt:halt_N, halt:halt_N
+ham	ham:ham_N, ham:ham_N
+hamstrings	ham:ham_N string:string_N s:+PL, ham:ham_N string:string_N s:+3SG
+hardware's	hard:hard_A ware:ware_N 's:+GEN
+have-nots	have:have_V -:~ not:not_B s:s_s
+heeding	heed:heed_V ing:+PCP1
+holograph	holograph:holograph_N
+honduras	honduras:Honduras_N
+horseshoe	horse:horse_N shoe:shoe_N
+hothouse	hot:hot_A house:house_N
+hurricane's	hurricane:hurricane_N 's:+GEN
+illness's	ill:ill_A ness:ness_s 's:+GEN
+importers'	import:import_V er:er_s s:+PL ':+GEN
+inanities	inan:inane_A iti:ity_s es:+PL
+indescribable	in:in_p describ:describe_V able:able_s
+industry	industry:industry_N
+infamous	in:in_p fam:fame_N ous:ous_s, infam:infamy_N ous:ous_s
+influencing	influenc:influence_N ing:+PCP1
+insensitivity	in:in_p sensitiv:sensitive_A ity:ity_s
+internationalists'	inter:inter_p nation:nation_N al:al_s ~:ism_s ist:ist_s s:+PL ':+GEN
+ironies	ironi:irony_N es:+PL
+isolationism	isolat:isolate_V ion:ion_s ism:ism_s
+jazzily	jazz:jazz_N i:y_s ly:ly_s
+jollies	jolli:jolly_A es:+3SG
+judgement	judge:judge_V ment:ment_s
+knee-high	knee:knee_N -:~ high:high_A, knee:knee_N -:~ high:high_A
+kneeing	knee:knee_N ing:+PCP1
+laps	lap:lap_N s:+PL, lap:lap_V s:+PL, lap:lap_V s:+3SG
+launches'	launch:launch_N es:+PL ':+GEN
+layabouts	lay:lay_V about:about_P s:+PL
+ledge	ledge:ledge_N
+left's	left:left_A 's:+GEN
+limitation's	limit:limit_N ation:ation_s 's:+GEN
+livestock's	live:live_A stock:stock_V 's:+GEN
+looking-glasses	looking:looking_V -:~ glass:glass_N es:+PL
+lore's	lore:lore_N 's:+GEN
+luridness	lurid:lurid_A ness:ness_s
+lustiness	lust:lust_N i:y_s ness:ness_s
+madeira's	madeira:Madeira_N 's:+GEN
+mane	mane:mane_N
+mantis	mantis:mantis_N
+marsh's	marsh:marsh_N 's:+GEN
+mast's	mast:mast_N 's:+GEN
+matrixes	matrix:matrix_N es:+PL
+matters	matter:matter_N s:+PL, matter:matter_N s:+3SG
+meetinghouse	meeting:meeting_V house:house_N
+meritocracies	merit:merit_N o:o_s craci:cracy_s es:+PL
+middleman's	middle:middle_A man:man_N 's:+GEN
+milder	mild:mild_A er:+CMP
+mizzen	mizzen:mizzen_N
+mollycoddle	molly:Molly_N coddle:coddle_V, molly:Molly_N coddle:coddle_V
+momma	momma:momma_N
+money's	money:money_N 's:+GEN
+monogamous	monogam:monogamy_N ous:ous_s
+morale	morale:morale_N
+motor	motor:motor_A, motor:motor_N, motor:motor_N
+motorbikes	motor:motor_N bi:bi_p ke:cycle_N s:+PL
+movers	mov:move_V er:er_s s:+PL
+muscovites	muscov:Muscovy_N ite:ite_s s:+PL
+necklace	neck:neck_N lace:lace_N
+negative	negat:negate_V ~:ion_s ive:ive_s, negat:negate_V ~:ion_s ive:ive_s, negat:negate_V ~:ion_s ive:ive_s
+numismatic	numismatic:numismatic_A
+offstage	off:off_P stage:stage_N, off:off_P stage:stage_N
+oilrig	oil:oil_N rig:rig_V
+orates	orate:orate_V s:+3SG
+outback's	out:out_B back:back_B 's:+GEN
+outer	out:out_B er:er_s
+outskirts	out:out_B skirts:skirts_N
+oval's	oval:oval_A 's:+GEN
+over-produce	over:over_p -:~ produce:produce_V
+overheads'	over:over_P head:head_N s:+PL ':+GEN, overheads:overheads_N ':+GEN
+overlords	over:over_p lord:lord_N s:+PL
+palatable	palat:palate_N able:able_s
+part-owner	part:part_N -:~ own:own_O er:er_s
+past	past:past_A, past:past_A, past:past_O, past:past_P, past:past_P
+pastor	pastor:pastor_N
+perfumes	per:per_p fume:fume_V s:+PL, per:per_p fume:fume_V s:+3SG
+peris	peri:peri_N s:+PL
+permanencies	perman:permanent_A enci:ency_s es:+PL
+persuasive	per:per_p suas:suasion_N ive:ive_s, persuas:persuade_V ~:ion_s ive:ive_s
+pilot	pilot:pilot_N, pilot:pilot_N, pilot:pilot_N
+pleased	pleas:please_V ed:+PAST, pleased:pleased_V
+plectrums	plectrum:plectrum_N s:+PL
+pontificate	pontific:pontiff_N ate:ate_s, pontific:pontiff_N ate:ate_s
+poofs	poof:poof_N s:+PL
+poorer	poor:poor_A er:+CMP
+popinjay	popinjay:popinjay_N
+postmortems	postmortem:post-mortem_A s:+PL
+pottered	potter:potter_V ed:+PAST
+precepts	precept:precept_N s:+PL
+precipitating	precipitat:precipitate_V ing:+PCP1
+pretentiously	pret:pretend_V ent:ence_s ious:ious_s ly:ly_s
+prod	prod:prod_V, prod:prod_V
+produced	produc:produce_V ed:+PAST
+proportion	proportion:proportion_V, proportion:proportion_V
+protestants'	protest:protest_V ant:ant_s s:+PL ':+GEN
+proviso	proviso:proviso_N
+prune	prune:prune_N, prune:prune_V
+prunes'	prune:prune_N s:+PL ':+GEN
+pupate	pup:pupa_N ate:ate_s
+purring	purr:purr_V ing:+PCP1
+putrefied	putrefi:putrefy_V ed:+PAST
+puts	put:put_N s:+PL, put:put_V s:+3SG
+radiotherapist	radio:radio_p therap:therapy_N ist:ist_s
+rat-a-tat-tat	rat-a-tat-tat:rat-a-tat-tat_N
+recapitulated	re:re_p capitulat:capitulate_V ed:+PAST
+reduce	reduce:reduce_V
+refracted	refract:refract_V ed:+PAST
+regression	regress:regress_V ion:ion_s
+regulations	regulat:regulate_V ion:ion_s s:+PL
+regulators'	regulat:regulate_V or:or_s s:+PL ':+GEN
+reins'	rein:rein_N s:+PL ':+GEN, ~:leading_V reins:reins_N ':+GEN
+remorseful	remorse:remorse_N ful:ful_s
+remunerate	remunerate:remunerate_V
+repressiveness	re:re_p press:press_V ~:ion_s ive:ive_s ness:ness_s
+reseat	re:re_p seat:seat_N
+rigger	rigg:rig_V er:er_s
+right-handed	right:right_V -:~ hand:hand_N ed:ed_s
+rockiness	rock:rock_N i:y_s ness:ness_s
+rococo	rococo:rococo_A
+rollicked	rollick:rollick_V ed:+PAST
+romanticists	romant:romance_N ic:ic_s ~:ism_s ist:ist_s s:+PL
+roundsman	round:round_A s:s_s man:man_N
+rowanberry	rowan:rowan_N berry:berry_N
+rowdiness	rowdi:rowdy_A ness:ness_s
+sacristans	sacrist:sacristy_N an:an_s s:+PL
+saltiness	salt:salt_N i:y_s ness:ness_s
+sang	sang:sing_V ~:+PAST
+saxophonist	sax:Sax_N o:o_s phon:phone_s ist:ist_s
+scorecards	score:score_Q card:card_N s:+PL
+scribble	scribble:scribble_V, scribble:scribble_V
+searched	search:search_V ed:+PAST
+serpentine	serpent:serpent_N ine:ine_s
+settle	settle:settle_N, settle:settle_N
+seventeen's	seven:seven_Q teen:teen_s 's:+GEN
+shay's	shay:shay_N 's:+GEN
+sheer	sheer:sheer_A, sheer:sheer_A, sheer:sheer_V
+shenanigan	shenanigan:shenanigan_N
+shogun	shogun:shogun_N
+showbiz	show:show_V biz:busy_A ~:ness_s
+sicilian's	sicili:Sicily_N an:an_s 's:+GEN
+similarly	similar:similar_A ly:ly_s
+sinking-fund	sinking:sinking_V -:~ fund:fund_N
+sip's	sip:sip_V 's:+GEN
+sixthly	six:six_Q th:th_s ly:ly_s
+smooch	smooch:smooch_V, smooch:smooch_V
+smoother	smooth:smooth_A er:+CMP
+snappishly	snapp:snap_V ish:ish_s ly:ly_s
+snobs'	snob:snob_N s:+PL ':+GEN
+sodium	sod:soda_N ium:ium_s
+spaceships	space:space_N ship:ship_N s:+PL
+spastics'	spast:spasm_N ic:ic_s s:+PL ':+GEN
+speeded	speed:speed_V ed:+PAST
+standardizes	standard:standard_A ize:ize_s s:+3SG
+stayers	stay:stay_V er:er_s s:+PL
+stodgy	stodg:stodge_N y:y_s
+strafes	strafe:strafe_V s:+3SG
+streakers	streak:streak_V er:er_s s:+PL
+strung	strung:string_N ~:+PAST, strung:strung_V
+substantiate	substanti:substance_N ate:ate_s
+suffuse	suffuse:suffuse_V
+supposed	suppos:suppose_V ed:+PAST, supposed:supposed_V
+survivor's	surviv:survive_V or:or_s 's:+GEN
+suture	suture:suture_N
+swede	swede:Swede_N, swede:swede_N
+sybaritic	sybar:Sybaris_N it:ite_s ic:ic_s
+symbolization	symbol:symbol_N iz:ize_s ation:ation_s
+tangle	tangle:tangle_V, tangle:tangle_V
+tartaric	tartar:tartar_N ic:ic_s
+tasteless	taste:taste_V less:less_s
+testers	test:test_N er:er_s s:+PL
+timbre	timbre:timbre_N
+time-limits	time:time_N -:~ limit:limit_N s:+PL
+toe-cap	toe:toe_N -:~ cap:cap_N
+tollgates	toll:toll_V gate:gate_N s:+PL
+totem-pole	totem:totem_N -:~ pole:pole_N
+toting	tot:tote_V ing:+PCP1
+trainable	train:train_V able:able_s
+training's	training:training_V 's:+GEN
+transients	transient:transient_A s:+PL
+trespass	trespass:trespass_V, trespass:trespass_V
+trike	tri:tri_p ke:cycle_N
+triviality	trivial:trivial_A ity:ity_s
+try-out	try:try_V -:~ out:out_B
+turning	turn:turn_V ing:+PCP1, turning:turning_V
+tusk's	tusk:tusk_N 's:+GEN
+tut	tut:tut, tut:tut_I
+twentieth's	twentie:twenty_Q th:th_s 's:+GEN
+under	under:under_P, under:under_P
+underscore	under:under_P score:score_N
+undertakers'	under:under_P tak:take_V er:er_s s:+PL ':+GEN
+uneconomical	un:un_p ec:eco_p onom:onomy_s ical:ical_s
+unplaced	un:un_p placed:placed_V
+unseats	un:un_p seat:seat_N s:+3SG
+unseemly	un:un_p seem:seem_V ly:ly_s
+vanquished	vanquish:vanquish_V ed:+PAST
+vast	vast:vast_A
+venezuela	venezuela:Venezuela_N
+victories	vict:victor_N ori:ory_s es:+PL
+videotape	video:video_A tape:tape_N, video:video_A tape:tape_N
+vilified	vil:vile_A ifi:ify_s ed:+PAST
+visas	visa:visa_N s:+PL, visa:visa_N s:+3SG
+warehouses'	ware:ware_N house:house_N s:+PL ':+GEN
+warlike	war:war_N like:like_s
+warmer	warm:warm_A er:+CMP, warm:warm_A er:er_s
+washerwoman	wash:wash_V er:er_s woman:woman_N
+wedged	wedg:wedge_N ed:+PAST, wedged:wedged_V
+whitecaps	white:white_A cap:cap_N s:+PL
+work's	work:work_V 's:+GEN
+workhorse	work:work_V horse:horse_N
+workshop	work:work_V shop:shop_N
+worse	worse:bad_A ~:+CMP, worse:bad_A ~:ly_s ~:+CMP, worse:ill_A ~:+CMP, worse:worse_A
+yearbooks	year:year_N book:book_N s:+PL
+years'	year:year_N s:+PL ':+GEN, years:years_N ':+GEN
+yeasty	yeast:yeast_N y:y_s
