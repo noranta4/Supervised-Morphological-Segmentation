@@ -5,7 +5,7 @@ First homework of the Natural Language Processing course, prof. Roberto Navigli.
 
 University project • 2016 - Natural Language Processing - MSc in Computer Science, I year 
 
-The source code is is accompanied by a report of the performed experiments (`report.pdf`), the original article can be found [here](http://www.aclweb.org/anthology/W13-3504). 
+The source code is is accompanied by a report (`report.pdf`), I strongly suggest you read it to understand the solution code. The original article can be found [here](http://www.aclweb.org/anthology/W13-3504). 
 
 ## Article abstract
 
